@@ -1,6 +1,6 @@
 # Contrats d'engagements de l'AMAP de Rouen
 
-Ceci est la liste des contrats d'engagements auprès des paysans de l'AMAP Rouen.
+Ceci est la liste des contrats d'engagements auprès de l'association et des paysans de l'AMAP Rouen.
 
 ## S'engager dans notre AMAP
 En trois étapes :
