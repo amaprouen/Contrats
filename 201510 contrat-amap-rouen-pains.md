@@ -30,13 +30,11 @@ Contact (email ou tél.) :
 Pain au levain 1kg, soit 2 Pains de 500g par semaine.
 
 ## Tarif(s)
-5€ , soit pour les 27 livraisons 135€
-(Par 15ene : semaine du 4/11, 14 livraisons : 70€ ou semaine du 11/11, 13 livraisons : 65€)
-(chèque à l'ordre de “Association FLVM”)
+5€ , soit pour les 27 livraisons 135€ (Par 15ene : semaine du 4/11, 14 livraisons : 70€ ou semaine du 11/11, 13 livraisons : 65€).  
+Chèque à l'ordre de “Association FLVM” 
 
 ## Grille de livraison
-2015 : **4/11** 11/11 **18/11** 25/11 **2/12** 9/12 **16/12** 23/12 **30/12**
-
+2015 : **4/11** 11/11 **18/11** 25/11 **2/12** 9/12 **16/12** 23/12 **30/12**  
 2016 : 6/01 **13/01** 20/01 **27/01** 3/02 **10/02** 17/02 **24/02** 2/03 **9/03** 16/03 **23/03** 30/03 **6/04** 13/04 **20/04** 27/04
 
 ## Date et signature
