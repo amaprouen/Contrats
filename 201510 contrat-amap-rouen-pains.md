@@ -4,7 +4,7 @@ http://amaprouen.org
 contact@amaprouen.org
 
 # Contrat d'engagement pour le Pain au levain
-Saison Novembre 2015 - Avril 2015
+Saison Novembre 2015 - Avril 2016
 
 Le présent contrat règle les modalités de vente entre l'*amapien(ne)* et le *l'agriculteur paysan*. Les produits seront livrés tous les mercredis de 18h30 à 19h30 à «la Cantine» au 192 rue Eau de Robec à Rouen.
 
@@ -27,7 +27,7 @@ Nom & prénom :
 Contact (email ou tél.) : 
 
 ## Pain au levain
-Pain au levain 1kg, soit 2 Pains de 500g par semaine
+Pain au levain 1kg, soit 2 Pains de 500g par semaine.
 
 ## Tarif(s)
 5€ , soit pour les 27 livraisons 135€
@@ -35,8 +35,8 @@ Pain au levain 1kg, soit 2 Pains de 500g par semaine
 (chèque à l'ordre de “Association FLVM”)
 
 ## Grille de livraison
-2015 : 4/11 11/11 18/11 25/11 2/12 9/12 16/12 23/12 30/12
-2016 : 6/01 13/01 20/01 27/01 3/02 10/02 17/02 24/02 2/03 9/03 16/03 23/03 30/03 6/04 13/04 20/04 27/04
+2015 : **4/11** 11/11 **18/11** 25/11 **2/12** 9/12 **16/12** 23/12 **30/12**
+2016 : 6/01 **13/01** 20/01 **27/01** 3/02 **10/02** 17/02 **24/02** 2/03 **9/03** 16/03 **23/03** 30/03 **6/04** 13/04 **20/04** 27/04
 
 ## Date et signature
 Fait à ............., le .............  
