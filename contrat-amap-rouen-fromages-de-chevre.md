@@ -34,8 +34,8 @@ Vous avez la possibilités de payer en plusieurs fois. Les chèques devront êtr
 |-----------|-----------|-----|----------|------|---|----------------------|
 |Crottin, 100g|1,80€|
 |Palet, 100g|1,80€|
-|Cendré, 170g|2,55€|
-|Bûchette, 180g|3,00€|
+|Cendrée façon Selles/Cher, 170g|2,55€|
+|Bûchette blanche ou cendrée, 180g|3,00€|
 |Tomme, 250g|3,70€|
 **Total semaine** |
 **Total pour 13 livraisons** |
