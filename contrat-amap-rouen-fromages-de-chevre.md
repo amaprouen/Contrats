@@ -30,20 +30,20 @@ Cette commande ne sera prise en compte que lors de votre dépôt de chèques aup
 Vous avez la possibilités de payer en plusieurs fois. Les chèques devront être libéllés à l'ordre de "**Chèvrerie du Rouge-Prè**" et devront comporter au dos votre nom et le mois au début duquel ils pourront être déposés.
 
 ## Tarif(s)
-|**Produit**|Qté|Tarif unité|Frais|Demi-frais|Affiné|Sec|**Total par produit** |
-|-----------|---|-----------|-----|----------|------|---|----------------------|
-|Crottin|100g|1,80€|
-|Palet|100g|1,80€|
-|Cendré|170g|2,55€|
-|Bûchette|180g|3,00€|
-|Tomme|250g|3,70€|
+|**Produit**|Tarif unité|Frais|Demi-frais|Affiné|Sec|**Total par produit** |
+|-----------|-----------|-----|----------|------|---|----------------------|
+|Crottin, 100g|1,80€|
+|Palet, 100g|1,80€|
+|Cendré, 170g|2,55€|
+|Bûchette, 180g|3,00€|
+|Tomme, 250g|3,70€|
 **Total semaine** |
 **Total pour 13 livraisons** |
 
 ## Grille de livraison
-2015 : 4/11 18/11 2/12 16/12 30/12
+2015 : 4/11, 18/11, 2/12, 16/12, 30/12
 
-2016 : 6/01 20/01 3/02 17/02 2/03 16/03 30/03 13/04 27/04
+2016 : 6/01, 20/01, 3/02, 17/02, 2/03, 16/03, 30/03, 13/04, 27/04
 
 ## Date et signature
 Fait à ............., le .............  
