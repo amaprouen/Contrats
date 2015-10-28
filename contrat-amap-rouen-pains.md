@@ -12,14 +12,13 @@ Pour plus d'informations sur les engagements entre amapien(ne) et producteur pay
 
 ## Agriculteur paysan
 Raphaël Lemonnier lance son projet de production responsable de pain au levain et à la farine (Bio ou sans intrants chimiques). Il profite de l'atelier de boulangerie de l'association FLVM (où il donne des cours) pour lancer une petite production de pain de qualité, en s'émancipant des contraintes de la production des boulangeries conventionnelles.
-{attente du retour de raphael pour info a jour sur la farine}
 La production de pain pour l'AMAP est récente (début mi-2015), n'hésitez pas à faire vos retours pour toutes demandes ou suggestions !
 
 Raphaël Lemonnier
 Atelier de boulangerie FLVM
 76000 Rouen
 06 19 14 06 73
-flvm.lemonnier@laposte.net
+raphael.lemonnier@laposte.net
 
 ## Amapien(ne)
 Adhérent à l'association AMAP Rouen.  
@@ -31,7 +30,7 @@ Pain au levain 1kg, soit 2 Pains de 500g par semaine.
 
 ## Tarif(s)
 5€ , soit pour les 27 livraisons 135€ (Par 15ene : semaine du 4/11, 14 livraisons : 70€ ou semaine du 11/11, 13 livraisons : 65€).  
-Chèque à l'ordre de “Association FLVM” 
+Chèque à l'ordre de “Association FLVM” / A partir de 01-2016 Raphaël changeant de status, l'ordre change.
 
 ## Grille de livraison
 2015 : **4/11** 11/11 **18/11** 25/11 **2/12** 9/12 **16/12** 23/12 **30/12**  
