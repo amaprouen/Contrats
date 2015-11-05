@@ -25,7 +25,7 @@ Nom & prénom :
 Contact (email ou tél.) : 
 
 ## Fromage de chèvre
-**Chaque commande sera identique 13 quinzaines consécutives**. Seul l'affinage d'un seul fromage pourra exceptionnellement être modifié sur demande directe de l'amapien à Patrick Sadones.
+**Chaque commande sera identique 14 quinzaines consécutives**. Seul l'affinage d'un seul fromage pourra exceptionnellement être modifié sur demande directe de l'amapien à Patrick Sadones.
 Cette commande ne sera prise en compte que lors de votre dépôt de chèques auprès du producteur ou du référent.
 Vous avez la possibilités de payer en plusieurs fois. Les chèques devront être libéllés à l'ordre de "**Chèvrerie du Rouge-Prè**" et devront comporter au dos votre nom et le mois au début duquel ils pourront être déposés.
 
@@ -39,7 +39,7 @@ Vous avez la possibilités de payer en plusieurs fois. Les chèques devront êtr
 |Bûchette blanche ou cendrée, 180g|3,00€|
 |Tomme, 250g|3,70€|
 |*Total semaine** |
-|**Total pour 13 livraisons** |
+|**Total pour 14 livraisons** |
 
 ## Grille de livraison
 2015 : 4/11, 18/11, 2/12, 16/12, 30/12
