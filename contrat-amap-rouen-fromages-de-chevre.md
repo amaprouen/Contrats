@@ -4,7 +4,7 @@ http://amaprouen.org
 contact@amaprouen.org
 
 # Contrat d'engagement fromage de chèvre
-Saison novembre 2015 - avril 2016
+Saison Mai 2016 - Octobre 2016
 
 Le présent contrat règle les modalités de vente entre l'*amapien(ne)* et *l'agriculteur paysan*. Les produits seront livrés **tous les quinze jours**, les mercredis de 18h30 à 19h30 à «la Cantine» au 192 rue Eau de Robec à Rouen.
 
@@ -25,7 +25,7 @@ Nom & prénom :
 Contact (email ou tél.) : 
 
 ## Fromage de chèvre
-**Chaque commande sera identique 13 quinzaines consécutives**. Seul l'affinage d'un seul fromage pourra exceptionnellement être modifié sur demande directe de l'amapien à Patrick Sadones.
+**Chaque commande sera identique toutes les quinzaines**. Seul l'affinage d'un seul fromage pourra exceptionnellement être modifié sur demande directe de l'amapien à Patrick Sadones.
 Cette commande ne sera prise en compte que lors de votre dépôt de chèques auprès du producteur ou du référent.
 Vous avez la possibilités de payer en plusieurs fois. Les chèques devront être libéllés à l'ordre de "**Chèvrerie du Rouge-Prè**" et devront comporter au dos votre nom et le mois au début duquel ils pourront être déposés.
 
@@ -42,9 +42,7 @@ Vous avez la possibilités de payer en plusieurs fois. Les chèques devront êtr
 |**Total pour 13 livraisons**      |           |     |          |      |   |                      |
 
 ## Grille de livraison
-2015 : 4/11, 18/11, 2/12, 16/12, 30/12
-
-2016 : 6/01, 20/01, 3/02, 17/02, 2/03, 16/03, 30/03, 13/04, 27/04
+2016 : 11/05, 25/05, 08/06, 22/06, 06/07, 20/07, 03/08, 17/08, 31/08, 14/09, 28/09, 12/10, 26/10
 
 ## Date et signature
 Fait à ............., le .............  
