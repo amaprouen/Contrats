@@ -1,10 +1,10 @@
-![Logo de l'AMAP Rouen](https://raw.githubusercontent.com/amaprouen/contrats/master/assets/images/logo-amap-rouen-small.png)
+![Logo de l'AMAP Rouen](assets/images/logo-amap-rouen-small.png)
 ### AMAP rouen
 http://amaprouen.org
 contact@amaprouen.org
 
 # Contrat d'engagement pour le Pain au levain
-Saison Novembre 2015 - Avril 2016
+Saison Mai 2016 - Octobre 2016
 
 Le présent contrat règle les modalités de vente entre l'*amapien(ne)* et le *l'agriculteur paysan*. Les produits seront livrés tous les mercredis de 18h30 à 19h30 à «la Cantine» au 192 rue Eau de Robec à Rouen.
 
@@ -25,16 +25,27 @@ Adhérent à l'association AMAP Rouen.
 Nom & prénom :  
 Contact (email ou tél.) : 
 
-## Pain au levain
-Pain au levain 1kg, soit 2 Pains de 500g par semaine.
+## Type de pain
+Pain au levain de 500g par semaine.
+Pain à l'épeautre de 500g par semaine.
 
 ## Tarif(s)
-5€ , soit pour les 27 livraisons 135€ (Par 15ene : semaine du 4/11, 14 livraisons : 70€ ou semaine du 11/11, 13 livraisons : 65€).  
-Chèque à l'ordre de “Association FLVM” / A partir de 01-2016 Raphaël changeant de status, l'ordre change.
+-2,50€ par pain au levain de 500g, 
+-4,65€ par pain à l'épeautre de 500g
+Pour des livraisons tout les 15 jours, vous pouvez vous arrengez avec une personne de l'autre semaine !
+
+Exemples :
+-2 pains au levain par semaine, soit pour les 31 livraisons 155€
+-2 pains à l'épautre, soit pour les 31 livraisons 288,30€ 
+-1 pain levain et 1 epautre, soit pour les 31 livraisons 221,65€ 
+-3 pains au levain par semaine, soit pour les 31 livraisons 225,50€ 
+-4 pains au levain par semaine, soit pour les 31 livraisons 310€
+
+Chèque à l'ordre de “Raphaël Lemonnier”.
 
 ## Grille de livraison
-2015 : **4/11** 11/11 **18/11** 25/11 **2/12** 9/12 **16/12** 23/12 **30/12**  
-2016 : 6/01 **13/01** 20/01 **27/01** 3/02 **10/02** 17/02 **24/02** 2/03 **9/03** 16/03 **23/03** 30/03 **6/04** 13/04 **20/04** 27/04
+2016 : **4/05** 11/05 **18/05** 25/05 **1/06** 8/06 **15/06** 22/06 **29/06** 6/07 **13/07** 20/07 **27/07** 3/08 **10/08** 17/08 **24/08** 31/08 **7/09** 14/09 **21/09** 28/09 **5/09** 12/09 **19/09** 26/09 **2/10** 9/10 **16/10** 23/10 **30/10**
+
 
 ## Date et signature
 Fait à ............., le .............  
