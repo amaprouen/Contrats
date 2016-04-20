@@ -1,4 +1,4 @@
-![Logo de l'AMAP Rouen](assets/images/logo-amap-rouen-small.png)
+![Logo de l'AMAP Rouen](https://raw.githubusercontent.com/amaprouen/contrats/master/assets/images/logo-amap-rouen-small.png)
 ### AMAP rouen
 http://amaprouen.org
 contact@amaprouen.org
