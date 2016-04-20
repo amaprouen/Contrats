@@ -31,6 +31,7 @@ Vous avez la possibilités de payer en plusieurs fois. Les chèques devront êtr
 
 ## Tarif(s)
 
+<<<<<<< HEAD
 |**Produit**                       |Tarif unité|Frais|Demi-frais|Affiné|Sec|**Total par produit** |
 |----------------------------------|-----------|-----|----------|------|---|----------------------|
 |Crottin, 100g                     |1,80€      |     |          |      |   |                      |
