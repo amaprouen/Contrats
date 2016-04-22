@@ -32,7 +32,7 @@ Pain à l'épeautre de 500g par semaine.
 ## Tarif(s)
 -2,50€ par pain au levain de 500g, 
 -4,65€ par pain à l'épeautre de 500g
-Pour des livraisons tout les 15 jours, vous pouvez vous arrengez avec une personne de l'autre semaine !
+Pour des livraisons tout les 15 jours, vous pouvez vous arrangez avec une personne de l'autre semaine !
 
 Exemples :
 -2 pains au levain par semaine, soit pour les 31 livraisons 155€
