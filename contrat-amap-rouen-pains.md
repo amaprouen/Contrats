@@ -25,27 +25,21 @@ Adhérent à l'association AMAP Rouen.
 Nom & prénom :  
 Contact (email ou tél.) : 
 
-## Type de pain
-Pain au levain de 500g par semaine.
-Pain à l'épeautre de 500g par semaine.
+## Commande
 
-## Tarif(s)
--2,50€ par pain au levain de 500g, 
--4,65€ par pain à l'épeautre de 500g
-Pour des livraisons tout les 15 jours, vous pouvez vous arrangez avec une personne de l'autre semaine !
+| produits                                | tarifs | quantité  | 
+|-----------------------------------------|--------|-----------|
+| Pain au levain de 500g                  | 2,50€  |           |
+| Pain à l'épeautre de 500g               | 4,65€  |           |
+| *Total par semaine*                     |        |           |
+| **Total pour 24 livraisons**            |        |           |
 
-Exemples :
--2 pains au levain par semaine, soit pour les 31 livraisons 155€
--2 pains à l'épautre, soit pour les 31 livraisons 288,30€ 
--1 pain levain et 1 epautre, soit pour les 31 livraisons 221,65€ 
--3 pains au levain par semaine, soit pour les 31 livraisons 225,50€ 
--4 pains au levain par semaine, soit pour les 31 livraisons 310€
 
+Pour des livraisons tout les 15 jours, vous pouvez vous arrangez avec une personne de l'autre semaine !  
 Chèque à l'ordre de “Raphaël Lemonnier”.
 
 ## Grille de livraison
 2016 : **4/05** 11/05 **18/05** 25/05 **1/06** 8/06 **15/06** 22/06 **29/06** 6/07 **13/07** 20/07 **27/07** 3/08 **10/08** 17/08 **24/08** 31/08 **7/09** 14/09 **21/09** 28/09 **5/10** 12/10 **19/10** 26/10
-
 
 ## Date et signature
 Fait à . . . . . . . . . . . . . . . . . . . . , le . . . . . . . . . . . . . . . . .  
