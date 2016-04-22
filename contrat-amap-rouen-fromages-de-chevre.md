@@ -45,5 +45,5 @@ Vous avez la possibilités de payer en plusieurs fois. Les chèques devront êtr
 2016 : 11/05, 25/05, 08/06, 22/06, 06/07, 20/07, 03/08, 17/08, 31/08, 14/09, 28/09, 12/10, 26/10
 
 ## Date et signature
-Fait à ............., le .............  
+Fait à . . . . . . . . . . . . . . . . . ., le . . . . . . . . . . . . .  
 Nom et signature de l'amapien(ne) :
