@@ -48,5 +48,5 @@ Chèque à l'ordre de “Raphaël Lemonnier”.
 
 
 ## Date et signature
-Fait à ............., le .............  
+Fait à . . . . . . . . . . . . . . . . . . . . , le . . . . . . . . . . . . . . . . .  
 Nom et signature de l'amapien(ne) :
