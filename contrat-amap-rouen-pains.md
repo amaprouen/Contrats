@@ -4,7 +4,7 @@ http://amaprouen.org
 contact@amaprouen.org
 
 # Contrat d'engagement pour le Pain au levain
-Saison Mai 2016 - Octobre 2016
+**Saison novembre 2016 - avril 2017**
 
 Le présent contrat règle les modalités de vente entre l'*amapien(ne)* et le *l'agriculteur paysan*. Les produits seront livrés tous les mercredis de 18h30 à 19h30 à «la Cantine» au 192 rue Eau de Robec à Rouen.
 
@@ -38,8 +38,8 @@ Contact (email ou tél.) :
 Pour des livraisons tout les 15 jours, vous pouvez vous arrangez avec une personne de l'autre semaine !  
 Chèque à l'ordre de “Raphaël Lemonnier”.
 
-## Grille de livraison
-2016 : **4/05** 11/05 **18/05** 25/05 **1/06** 8/06 **15/06** 22/06 **29/06** 6/07 **13/07** 20/07 **27/07** 3/08 **10/08** 17/08 **24/08** 31/08 **7/09** 14/09 **21/09** 28/09 **5/10** 12/10 **19/10** 26/10
+## Livraison
+Livraisons tous les **mercredis de 18h30 à 19h30** au 192, rue Eau de Robec à Rouen (à la Cantine) sur la période de la saison **novembre 2016 à avril 2017**.
 
 ## Date et signature
 Fait à . . . . . . . . . . . . . . . . . . . . , le . . . . . . . . . . . . . . . . .  
