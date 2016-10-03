@@ -6,7 +6,7 @@ http://amaprouen.org
 contact@amaprouen.org
 
 # Bulletin d'adhésion à l'association AMAP Rouen 
-Année 2015-2016
+Année 2016-2017
 
 L'AMAP Rouen est une association formée par des consommateurs et des producteurs paysans désirant construire un partenariat équitable **sans intermédiaires**.
 
