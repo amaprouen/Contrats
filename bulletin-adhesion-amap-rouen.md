@@ -2,8 +2,8 @@
 http://amaprouen.org  
 contact@amaprouen.org
 
-# AMAP Rouen année 2016-2017 
-**Bulletin d'adhésion à l'association **  
+# Adhésion AMAP Rouen
+**Bulletin d'adhésion à l'association pour la période 2016-2017**  
 Association rouennaise pour le maintien de l'agriculture paysanne.  
 http://amaprouen.org, contact@amaprouen.org  
 
