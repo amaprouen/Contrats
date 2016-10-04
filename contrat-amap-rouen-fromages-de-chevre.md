@@ -46,5 +46,5 @@ Vous avez la possibilités de payer en plusieurs fois. Les chèques devront êtr
 +2017 : 11/01, 25/01, 08/02, 22/02, 08/03, 22/03, 05/04, 19/04 
 
 ## Date et signature
-Fait à ............., le .............  
+Fait à . . . . . . . . . . . . . . . . . ., le . . . . . . . . . . . . .  
 Nom et signature de l'amapien(ne) :
