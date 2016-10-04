@@ -8,12 +8,12 @@ contact@amaprouen.org
 
 Le présent contrat règle les modalités de vente entre l'*amapien(ne)* et le *l'agriculteur paysan*. Les produits seront livrés tous les mercredis de 18h30 à 19h30 à «la Cantine» au 192 rue Eau de Robec à Rouen.
 
-Pour plus d'informations sur les engagements entre amapien(ne) et producteur paysans, référez vous au [bulletin d'adhésion de l'association AMAP Rouen](bulletin-adhesion-amap-rouen) ainsi qu'à [la charte officiel des AMAP](http://miramap.org/IMG/pdf/charte_des_amap_mars_2014-2.pdf).
+Pour plus d'informations sur les engagements entre amapien(ne) et producteur paysans, référez-vous au [bulletin d'adhésion de l'association AMAP Rouen](bulletin-adhesion-amap-rouen) ainsi qu'à [la charte officiel des AMAP](http://miramap.org/IMG/pdf/charte_des_amap_mars_2014-2.pdf).
 
-## Bounlanger responsable
-Raphaël Lemmonier produit son pain sur levain à partir d'une farine locale certifiée Bio (fournisseur Biocer). Notre AMAP accompagne son projet depuis le début, Raphaël s'engage à produire un pain de qualité nutritionnel et gustatif, évitant le gachis. Il a le désire que son produit soit accéssible au plus grand nombe et s'engage à respecter les charte des AMAP.  
+## Boulanger responsable
+Raphaël Lemonnier produit son pain sur levain à partir d'une farine locale certifiée Bio (fournisseur Biocer). Notre AMAP accompagne son projet depuis le début, Raphaël s'engage à produire un pain de qualité nutritionnel et gustatif, évitant le gâchis. Il a le désir que son produit soit accessible au plus grand nombre et s'engage à respecter la charte des AMAP.  
 
-Il a débuté son aventure avec nous et distribue aujourd'hui à plusierus AMAP et autres points de vente dans l'agglomération. N'hésitez pas à lui faire part de vos remarques et suggestions afin qu'il puisse améliorer ses produits.
+Il a débuté son aventure avec nous et distribue aujourd'hui à plusieurs AMAP et autres points de vente dans l'agglomération. N'hésitez pas à lui faire part de vos remarques et suggestions afin qu'il puisse améliorer ses produits.
 
 Raphaël Lemonnier
 15, rue Vigné
@@ -37,13 +37,13 @@ Contact (email ou tél.) :
 | **Total pour 24 livraisons**                                 |        |           |
 
 
-Pour des livraisons tout les 15 jours, vous pouvez vous arrangez avec une personne de l'autre semaine !  
+Pour des livraisons tout les 15 jours, vous pouvez vous arranger avec une personne de l'autre semaine !  
 Chèque à l'ordre de “Raphaël Lemonnier”.
 
 ## Livraison
 Livraisons tous les **mercredis de 18h30 à 19h30** au 192, rue Eau de Robec à Rouen (à la Cantine) sur la période de la saison **novembre 2016 à avril 2017**.
 
-Si vous commandez en quizaine, veuillez précisez votre quizaine :   
+Si vous commandez en quinzaine, veuillez préciser votre semaine :   
 ⬜ Semaine A (semaine paire)  
 ⬜ Semaine B  (semaine impaire)  
 
