@@ -1,9 +1,9 @@
-![Logo de l'AMAP Rouen](https://raw.githubusercontent.com/amaprouen/contrats/master/assets/images/logo-amap-rouen-small.png)
-### AMAP rouen
-http://amaprouen.org
+**![AMAP Rouen](assets/images/logo-amap-rouen-small.png)**  
+http://amaprouen.org  
 contact@amaprouen.org
 
 # Contrat d'engagement pour le Pain au levain
+
 **Saison novembre 2016 - avril 2017**
 
 Le présent contrat règle les modalités de vente entre l'*amapien(ne)* et le *l'agriculteur paysan*.  

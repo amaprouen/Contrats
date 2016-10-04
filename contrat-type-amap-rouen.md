@@ -1,10 +1,9 @@
-![Logo de l'AMAP Rouen](https://raw.githubusercontent.com/amaprouen/contrats/master/assets/images/logo-amap-rouen-small.png)
-### AMAP rouen
-http://amaprouen.org
+**![AMAP Rouen](assets/images/logo-amap-rouen-small.png)**  
+http://amaprouen.org  
 contact@amaprouen.org
 
 # Contrat d'engagement {produit}
-Saison {mois année début} - {mois année fin}
+**Saison {mois année début} - {mois année fin}**
 
 Le présent contrat règle les modalités de vente entre l'*amapien(ne)* et le *l'agriculteur paysan*. Les produits seront livrés tous les mercredis de 18h30 à 19h30 à «la Cantine» au 192 rue Eau de Robec à Rouen.
 

@@ -1,12 +1,11 @@
-![Logo de l'AMAP Rouen](https://raw.githubusercontent.com/amaprouen/contrats/master/assets/images/logo-amap-rouen-small.png)
-### AMAP rouen
-Association rouennaise pour le maintien de l'agriculture paysanne
-
-http://amaprouen.org
+**![AMAP Rouen](assets/images/logo-amap-rouen-small.png)**  
+http://amaprouen.org  
 contact@amaprouen.org
 
-# Bulletin d'adhésion à l'association AMAP Rouen 
-Année 2016-2017
+# AMAP Rouen année 2016-2017 
+**Bulletin d'adhésion à l'association **  
+Association rouennaise pour le maintien de l'agriculture paysanne.  
+http://amaprouen.org, contact@amaprouen.org  
 
 L'AMAP Rouen est une association formée par des consommateurs et des producteurs paysans désirant construire un partenariat équitable **sans intermédiaires**.
 
