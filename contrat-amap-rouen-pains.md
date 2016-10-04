@@ -15,10 +15,10 @@ Raphaël Lemonnier produit son pain sur levain à partir d'une farine locale cer
 
 Il a débuté son aventure avec nous et distribue aujourd'hui à plusieurs AMAP et autres points de vente dans l'agglomération. N'hésitez pas à lui faire part de vos remarques et suggestions afin qu'il puisse améliorer ses produits.
 
-Raphaël Lemonnier
-15, rue Vigné
-76130 Mont-Saint-Aignan
-06 19 14 06 73
+Raphaël Lemonnier  
+15, rue Vigné  
+76130 Mont-Saint-Aignan  
+06 19 14 06 73  
 raphael.lemonnier@laposte.net
 
 ## Amapien(ne)
