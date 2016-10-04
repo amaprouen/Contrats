@@ -4,14 +4,14 @@ http://amaprouen.org
 contact@amaprouen.org
 
 # Contrat d'engagement fromage de chèvre
-Saison Mai 2016 - Octobre 2016
+Saison Novembre 2016 - Avril 2017
 
-Le présent contrat règle les modalités de vente entre l'*amapien(ne)* et *l'agriculteur paysan*. Les produits seront livrés **tous les quinze jours**, les mercredis de 18h30 à 19h30 à «la Cantine» au 192 rue Eau de Robec à Rouen.
+Le présent contrat règle les modalités de vente entre l'*amapien(ne)* et *l'agriculteur paysan*. Les fromages seront livrés **tous les quinze jours**, les mercredis de 18h30 à 19h30 à «la Cantine» au 192 rue Eau de Robec à Rouen.
 
 Pour plus d'informations sur les engagements entre amapien(ne) et producteur paysans, référez vous au [bulletin d'adhésion de l'association AMAP Rouen](bulletin-adhesion-amap-rouen) ainsi qu'à [la charte officiel des AMAP](http://miramap.org/IMG/pdf/charte_des_amap_mars_2014-2.pdf).
 
 ## Producteur de fromage de chèvre
-Ces fromages sont exclusivement moulés à la louche manuellement à partir de caillé frais avec une garantie de livraison en fin d'année à hauteur de 50% des livraisons de printemps. Chaque type de fromage est disponible en **frais**, **demi-frais**, **affiné** ou **sec**.
+Ces fromages sont exclusivement moulés à la louche manuellement à partir de lait caillé frais avec une garantie de livraison en fin d'année à hauteur de 50% des livraisons de printemps. Chaque type de fromage est disponible en **frais**, **demi-frais**, **affiné** ou **sec**.
 
 Patrick Sadones  
 2079, Route du Conihout
@@ -27,7 +27,7 @@ Contact (email ou tél.) :
 ## Fromage de chèvre
 **Chaque commande sera identique toutes les quinzaines**. Seul l'affinage d'un seul fromage pourra exceptionnellement être modifié sur demande directe de l'amapien à Patrick Sadones.
 Cette commande ne sera prise en compte que lors de votre dépôt de chèques auprès du producteur ou du référent.
-Vous avez la possibilités de payer en plusieurs fois. Les chèques devront être libéllés à l'ordre de "**Chèvrerie du Rouge-Prè**" et devront comporter au dos votre nom et le mois au début duquel ils pourront être déposés.
+Vous avez la possibilité de payer en plusieurs fois. Les chèques devront être libéllés à l'ordre de "**Chèvrerie du Rouge-Prè**" et devront comporter au dos votre nom et le mois au début duquel ils pourront être déposés.
 
 ## Tarif(s)
 
@@ -42,7 +42,8 @@ Vous avez la possibilités de payer en plusieurs fois. Les chèques devront êtr
 |**Total pour 13 livraisons**      |           |     |          |      |   |                      |
 
 ## Grille de livraison
-2016 : 11/05, 25/05, 08/06, 22/06, 06/07, 20/07, 03/08, 17/08, 31/08, 14/09, 28/09, 12/10, 26/10
+2016 : 02/11, 16/11, 30/11, 14/12, 28/12
+2017 : 11/01, 25/01, 08/02, 22/02, 08/03, 22/03, 05/04, 19/04 
 
 ## Date et signature
 Fait à ............., le .............  
