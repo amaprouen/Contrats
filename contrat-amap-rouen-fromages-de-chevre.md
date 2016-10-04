@@ -14,7 +14,7 @@ Pour plus d'informations sur les engagements entre amapien(ne) et producteur pay
 Ces fromages sont exclusivement moulés à la louche manuellement à partir de caillé frais avec une garantie de livraison en fin d'année à hauteur de 50% des livraisons de printemps. Chaque type de fromage est disponible en **frais**, **demi-frais**, **affiné** ou **sec**.
 
 Patrick Sadones  
-2079, Route du Conihout
+2079, Route du Conihout  
 76480 Le Mesnil-sous-Jumièges  
 02 35 37 35 08   
 patricksadones@hotmail.fr
