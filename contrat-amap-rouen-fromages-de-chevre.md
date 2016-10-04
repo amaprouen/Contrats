@@ -42,8 +42,8 @@ Vous avez la possibilité de payer en plusieurs fois. Les chèques devront être
 |**Total pour 13 livraisons**      |           |     |          |      |   |                      |
 
 ## Grille de livraison
-2016 : 09/11, 23/11, 07/12, 21/12
-2017 : 04/01, 18/01, 01/02, 15/02, 01/03, 15/03, 29/03, 05/04, 19/04 
+2016 : 02/11, 16/11, 30/11, 14/12, 28/12
+2017 : 11/01, 25/01, 08/02, 22/02, 08/03, 22/03, 05/04, 19/04 
 
 ## Date et signature
 Fait à ............., le .............  
