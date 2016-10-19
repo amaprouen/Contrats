@@ -43,8 +43,8 @@ Chèque à l'ordre de “Raphaël Lemonnier”.
 Livraisons tous les **mercredis de 18h30 à 19h30** au 192, rue Eau de Robec à Rouen (à la Cantine) sur la période de la saison **novembre 2016 à avril 2017**.
 
 Si vous commandez en quinzaine, veuillez préciser votre semaine :   
-⬜ Semaine A (semaine paire)  
-⬜ Semaine B  (semaine impaire)  
+⬜ Semaine A (semaine impaire)  
+⬜ Semaine B  (semaine paire)  
 
 ## Date et signature
 Nom . . . . . . . . . . . . . . Prénom  . . . . . . . . . . . . . .  
