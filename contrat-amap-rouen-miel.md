@@ -10,15 +10,9 @@ Le présent contrat règle les modalités de vente entre l'*amapien(ne)* et le *
 Pour plus d'informations sur les engagements entre amapien(ne) et producteur paysans, référez-vous au [bulletin d'adhésion de l'association AMAP Rouen](bulletin-adhesion-amap-rouen) ainsi qu'à [la charte officiel des AMAP](http://miramap.org/IMG/pdf/charte_des_amap_mars_2014-2.pdf).
 
 ## Apiculteur 
-Gérard Pigné méthode traditionnelle/artisanale
-production 50 rûches, 500 kilos de miel/an.
-preservation des abeille noires normande
-priorité sur le bien être de l'abeille et sur le dévellopement de la colonie (plutôt que sur la productivité).
-Miel sans équilibrage, goûts, textures et aspect varient en fonction des lieux de récoltes et des saisons (ex. blanc crémeux au primptemps : pissenlit, colza).
-lieux/carac : beaulieu/bois l'évêque (sauvage); route des rôches (Oissel/Orival) (liquide crémeux, châtaigne); Repainville, rûcher partagé (ambré).
+Gérard Pigné travail avec des méthodes artisanales, il possède une cinquantaine de rûches répartit en 3 rûchets (± 500 kg de miel/an). Il privilégie le bien-être de ses abeilles à la productivité mielifère. Son miel n'est pas transformé, les goûts, aspects et textures conservent leurs caractéristiques naturelles, elles  varient en fonction des lieux et des saisons.
 
-Création de l'Association des Apiculteurs de Repainville. Rûcher partagé, protection des abeilles, sensibilisation/éducation.
-
+Son but est de sensibiliser le public à la survie des abeilles (notament l'abeille noire Normande) et de développer les rûchets en transmettant le savoir-faire apicole. Il est engagé dans l'association des Apiculteurs de Repainville, afin de gérer un rûchet partagé.
 
 **Gérard Pigné**  
 708, rue Saint-Anne  
@@ -28,7 +22,7 @@ gerard.pigne@laposte.net
 
 
 ## Commandes de miel
-Miel naturel, provenant des rûchers de Beaulieu/Bois l'Évêque, Route des Rôches ou de Repainville.
+Miel naturel, provenant des rûchers de Beaulieu/Bois l'Évêque (miel sauvage), Route des Rôches (liquide crémeux, chataigne) ou de Repainville (ambré) en fonction de la production.
 Les produits seront livrés **une fois par mois** tous les premiers mercredis de 18h30 à 19h30 au 192 rue Eau de Robec à Rouen (à la Cantine).
 
 Produits           | tarifs  | qté | total par livraison |
