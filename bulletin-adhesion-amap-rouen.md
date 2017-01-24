@@ -1,11 +1,11 @@
 **![AMAP Rouen](assets/images/logo-amap-rouen-small.png)**  
 http://amaprouen.org  
 contact@amaprouen.org
+Lettre d'information: amaprouen@framalistes.org
 
 # Adhésion AMAP Rouen
 **Bulletin d'adhésion à l'association pour la période 2016-2017**  
 Association rouennaise pour le maintien de l'agriculture paysanne.  
-http://amaprouen.org, contact@amaprouen.org  
 
 L'AMAP Rouen est une association formée par des consommateurs et des producteurs paysans désirant construire un partenariat équitable **sans intermédiaires**.
 
@@ -53,16 +53,17 @@ Tant qu'il le peut, l'agriculteur paysan devra être présent lors des distribut
 Les produits seront livrés tous les **mercredis de 18h30 à 19h30 sur la terrasse de «la Cantine» au 195, rue Eau de Robec à Rouen**. Les produits ne seront pas remboursés, il pourra s'arranger pour trouver une autre personne pour prendre son panier (une personne de son entourage, un autre adhérent, etc.).
 
 ## Adhésion
+L'adhésion à l'association vous permet de participer et bénéficier des actions de notre association. Pour rester informé sur l'activité de l'association, inscrivez à la lettre d'information en envoyant un email à l'adresse amaprouen@framalistes.org (votre adresse d'expédition doit être similaire à celle précisée dans ce bulletin d'adhésion).
 
 ### Informations personnelles
+Vos données personnelles sont nécessaires pour votre adhésion. Elles feront l'objet d'un traitement informatique et seront uniquement destinées à la gestion administrative de l'association.
+
     Nom : ........................................................  
     Prénom : .....................................................  
     Adresse postale : ............................................  
     ..............................................................  
     Téléphone : ..................................................  
-    Adresse éléctronique : .......................................  
-⬜ J'autorise l'association à conserver mon adresse électronique (conformément à la réglementation de la CNIL).   
-⬜ J'autorise l'association à diffuser mon adresse email auprès des autres adhérents.
+    Adresse électronique : .......................................  
 
 ### Montant de l'adhésion
     Montant de l'adhésion (1€ mini.) : ........... €
