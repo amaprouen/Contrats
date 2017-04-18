@@ -37,13 +37,13 @@ Veuillez choisir vos semaines  de livraison :
 
 | Dates | A+B | **A** | B  |
 |-------|-----|-------|----|
-| Mai __3*__, 10,  __17*__, 24, __31*__ | 5  | 3  | 2  |
-| Juin 7, __14*__, 21, __28*__         | 4  | 2  | 2  |
-| Juillet 5, __12*__, 19, __26*__      | 4  | 2  | 2  |
-| Août 2, __9*__, 16, __23*__, 30      | 5  | 2  | 3  |
-| Septembre __6*__, 13, __20*__, 27    | 4  | 2  | 2  |
-| Octobre __4*__, 11, __18*__, 25      | 4  | 2  | 2  |
-| Nombre de paniers total            | 26 | 13 | 13 |
+| Mai __3*__, 10,  __17*__, 24, __31*__ | 5 paniers  | 3 p.  | 2  p. |
+| Juin 7, __14*__, 21, __28*__          | 4 paniers  | 2 p.  | 2  p. |
+| Juillet 5, __12*__, 19, __26*__       | 4 paniers  | 2 p.  | 2  p. |
+| Août 2, __9*__, 16, __23*__, 30       | 5 paniers  | 2 p.  | 3  p. |
+| Septembre __6*__, 13, __20*__, 27     | 4 paniers  | 2 p.  | 2  p. |
+| Octobre __4*__, 11, __18*__, 25       | 4 paniers  | 2 p.  | 2  p. |
+| Nombre de paniers total               | 26 paniers | 13 p. | 13 p. |
 
 ## Date et signature
 Adhérent à l'association AMAP Rouen.  
