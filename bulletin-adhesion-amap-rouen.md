@@ -1,6 +1,6 @@
 **![AMAP Rouen](assets/images/logo-amap-rouen-small.png)**  
 http://amaprouen.org  
-contact@amaprouen.org
+contact@amaprouen.org  
 Liste de diffusion: amaprouen@framalistes.org
 
 # Adhésion AMAP Rouen
