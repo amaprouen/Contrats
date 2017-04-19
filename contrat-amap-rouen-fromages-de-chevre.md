@@ -17,11 +17,6 @@ Patrick Sadones
 02 35 37 35 08   
 patricksadones@hotmail.fr
 
-## Amapien(ne)
-Adhérent à l'association AMAP Rouen.  
-Nom & prénom :  
-Contact (email ou tél.) : 
-
 ## Commande
 
 |Produits                          |Tarif unité|Frais|Demi-frais|Affiné|Sec|**Total par produit** |
@@ -43,5 +38,7 @@ Les produits seront livrés **tous les quinze jours**, les mercredis de 18h30 à
 2017 : 03/05, 15/05, 31/05, 14/06, 28/06, 12/07, 26/07, 9/08, 23/08, 06/09, 20/09, 04/101, 18/10
 
 ## Date et signature
-Fait à ............., le .............  
-Nom et signature de l'amapien(ne) :
+Adhérent à l'association AMAP Rouen.  
+Nom & prénom :  
+Contact (email ou tél.) :   
+Date et signature : 
