@@ -31,11 +31,11 @@ Pour des livraisons tout les 15 jours, vous pouvez vous arranger avec une person
 Chèque à l'ordre de “Raphaël Lemonnier”.
 
 ## Calendrier
-Livraisons tous les **mercredis de 18h30 à 19h30** au 192, rue Eau de Robec à Rouen (à la Cantine) sur la période de la saison **novembre 2016 à avril 2017**.
+Livraisons tous les **mercredis de 18h30 à 19h30** au 192, rue Eau de Robec à Rouen (à la Cantine).
 
 Si vous commandez en quinzaine, veuillez préciser votre semaine :   
-[] Semaine A (03/05, 15/05, 31/05, 14/06, 28/06, 12/07, 26/07, 9/08, 23/08, 06/09, 20/09, 04/10, 18/10)
-[] Semaine B  (10/05, 24/04, 07/06, 21/06, 05/07, 19/07, 02/08, 16/08, 30/08, 13/09, 27/09, 11/10, 25/10)  
+[ ] Semaine A (03/05, 15/05, 31/05, 14/06, 28/06, 12/07, 26/07, 9/08, 23/08, 06/09, 20/09, 04/10, 18/10)
+[ ] Semaine B  (10/05, 24/04, 07/06, 21/06, 05/07, 19/07, 02/08, 16/08, 30/08, 13/09, 27/09, 11/10, 25/10)  
 
 ## Date et signature
 Adhérent à l'association AMAP Rouen.  
