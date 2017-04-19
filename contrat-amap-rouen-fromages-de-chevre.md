@@ -1,9 +1,7 @@
-**![AMAP Rouen](assets/images/logo-amap-rouen-small.png)**  
-http://amaprouen.org  
-contact@amaprouen.org
+**AMAP Rouen**
 
 # Contrat d'engagement pour le fromage de chèvre
-**Saison Novembre 2016 - Avril 2017**
+**Saison mai 2017 - octobre 2017**
 
 Le présent contrat règle les modalités de vente entre l'*amapien(ne)* et *l'agriculteur paysan*.                                
 Pour plus d'informations sur les engagements entre amapien(ne) et producteur paysans, référez-vous au [bulletin d'adhésion de l'association AMAP Rouen](bulletin-adhesion-amap-rouen) ainsi qu'à [la charte officiel des AMAP](http://miramap.org/IMG/pdf/charte_des_amap_mars_2014-2.pdf).
