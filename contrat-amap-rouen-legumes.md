@@ -48,6 +48,5 @@ Veuillez choisir vos semaines  de livraison :
 ## Date et signature
 Adhérent à l'association AMAP Rouen.  
 Nom & prénom :  
-Contact (email ou tél.) :  
-Fait à . . . . . . . . . . , le . . . . . . . . . .    
-Signature de l'amapien(ne) :
+Contact (email ou tél.) :   
+Date et signature : 

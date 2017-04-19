@@ -28,5 +28,5 @@ Pour plus d'informations sur les engagements entre amapien(ne) et producteur pay
 ## Date et signature
 Adhérent à l'association AMAP Rouen.  
 Nom & prénom :  
-Contact (email ou tél.) : Fait à ............., le .............  
-NSignature de l'amapien(ne) :
+Contact (email ou tél.) :   
+Date et signature : 
