@@ -17,20 +17,16 @@ Pour plus d'informations sur les engagements entre amapien(ne) et producteur pay
 {Numéro de téléphone}  
 {Adresse email}
 
-## Amapien(ne)
-Adhérent à l'association AMAP Rouen.  
-Nom & prénom :  
-Contact (email ou tél.) : 
-
 ## {Produit}
-{description, modalité}
+{description, tarifs(s) modalité}
 
-## Tarif(s)
 {produit} {qté} {tarif HT, tarif TTC}
 
 ## Grille de livraison
 {date}
 
 ## Date et signature
-Fait à ............., le .............  
-Nom et signature de l'amapien(ne) :
+Adhérent à l'association AMAP Rouen.  
+Nom & prénom :  
+Contact (email ou tél.) : Fait à ............., le .............  
+NSignature de l'amapien(ne) :
