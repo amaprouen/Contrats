@@ -35,7 +35,7 @@ Veuillez choisir vos semaines  de livraison :
  - [ ] __quinzaine B__ soit 13 paniers pour 182,00€ sur 6 mois
 
 
-| Dates | A+B | **A** | B  |
+| Dates | A+B | A* | B  |
 |-------|-----|-------|----|
 | Mai __3*__, 10,  __17*__, 24, __31*__ | 5 paniers  | 3 p.  | 2  p. |
 | Juin 7, __14*__, 21, __28*__          | 4 paniers  | 2 p.  | 2  p. |
