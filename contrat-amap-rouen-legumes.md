@@ -24,7 +24,7 @@ goubert_alain@orange.fr
 
 Le tarif est basé sur une quantité moyenne de légume prévue pour la consommation d'environs d'une semaine de légumes pour une petite famille ou pour un grand mangeur de légumes. Vous pouvez vous engager pour un panier par semaine ou un panier tout les quinze jours.
 
- Vous devez régler la saison d'avance (6 mois) par chèques (de 1 à 6 chèques), ils seront encaissés au début de chaque mois. Le réglement est à faire par **chèque(s)** au nom de **ALain Goubert**.
+ Vous devez régler la saison d'avance (6 mois) par chèques (de 1 à 6 chèques), ils seront encaissés au début de chaque mois. Le réglement est à faire par **chèque(s)** au nom de **Goubert**.
 
 ## Calendrier de livraison
 
