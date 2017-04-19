@@ -1,6 +1,6 @@
 **AMAP Rouen**
 
-# Contrat d'engagement pour le Pain au levain
+# Contrat d'engagement pour les produits de boulangerie
 **Saison mai 2017 - octobre 2017**
 
 Le présent contrat règle les modalités de vente entre l'*amapien(ne)* et le *l'agriculteur paysan*.  
@@ -17,7 +17,7 @@ Raphaël Lemonnier
 06 19 14 06 73  
 raphael.lemonnier@laposte.net
 
-## Pains
+## Produits de boulangerie
 
 | produits                                                     | tarifs | quantité  | 
 |--------------------------------------------------------------|--------|-----------|
