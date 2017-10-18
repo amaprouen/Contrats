@@ -4,7 +4,7 @@ contact@amaprouen.org
 Liste de diffusion: amaprouen@framalistes.org
 
 # Contrat d'engagement pour les paniers de légumes Bio
-**Saison mai 2017 - octobre 2017**
+**Saison novembre 2017 - avril 2018**
 
 Le présent contrat règle les modalités de vente entre l'*amapien(ne)* et le *l'agriculteur paysan*. Les produits seront livrés les mercredis de 18h30 à 19h30 à «la Cantine» au 192 rue Eau de Robec à Rouen.
 
@@ -29,22 +29,10 @@ Le tarif est basé sur une quantité moyenne de légume prévue pour la consomma
 
 ## Calendrier de livraison
 
-Veuillez choisir vos semaines  de livraison : 
+Veuillez choisir vos quinzaines de livraison : 
 
- - [ ] __toutes les semaines (A+B)__ soit 26 paniers pour 364,00€ sur 6 mois
- - [ ] ___quinzaine A*___ soit 13 paniers pour 182,00€ sur 6 mois
- - [ ] __quinzaine B__ soit 13 paniers pour 182,00€ sur 6 mois
-
-
-| Dates | A+B | A* | B  |
-|-------|-----|-------|----|
-| Mai __3*__, 10,  __17*__, 24, __31*__ | 5 paniers  | 3 p.  | 2  p. |
-| Juin 7, __14*__, 21, __28*__          | 4 paniers  | 2 p.  | 2  p. |
-| Juillet 5, __12*__, 19, __26*__       | 4 paniers  | 2 p.  | 2  p. |
-| Août 2, __9*__, 16, __23*__, 30       | 5 paniers  | 2 p.  | 3  p. |
-| Septembre __6*__, 13, __20*__, 27     | 4 paniers  | 2 p.  | 2  p. |
-| Octobre __4*__, 11, __18*__, 25       | 4 paniers  | 2 p.  | 2  p. |
-| Nombre de paniers total               | 26 paniers | 13 p. | 13 p. |
+ - [ ] Semaine A (08/11, 22/11, 6/12, 20/12, 03/01, 17/01, 31/01, 14/02, 28/02, 14/03, 28/03, 11/04, 25/04) 13 livraisons
+ - [ ] Semaine B (01/11, 15/11, 29/11, 13/12, 27/12, 10/01, 24/01, 07/02, 21/02, 07/03, 21/03, 04/04, 18/04) 13 livraisons
 
 ## Date et signature
 Adhérent à l'association AMAP Rouen.  
