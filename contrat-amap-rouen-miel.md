@@ -5,7 +5,7 @@ Liste de diffusion: amaprouen@framalistes.org
 
 
 # Contrat d'engagement pour le miel
-**Saison novembre 2016 - avril 2017**
+**Saison novembre 2017 - avril 2018**
 
 Le présent contrat règle les modalités de vente entre l'*amapien(ne)* et le *l'agriculteur paysan*.
 Pour plus d'informations sur les engagements entre amapien(ne) et producteur paysans, référez-vous au [bulletin d'adhésion de l'association AMAP Rouen](bulletin-adhesion-amap-rouen) ainsi qu'à [la charte officiel des AMAP](http://miramap.org/IMG/pdf/charte_des_amap_mars_2014-2.pdf).
