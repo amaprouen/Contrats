@@ -4,7 +4,7 @@ contact@amaprouen.org
 Liste de diffusion: amaprouen@framalistes.org
 
 # Adhésion AMAP Rouen
-**Bulletin d'adhésion à l'association pour la période 2016-2017**  
+**Bulletin d'adhésion à l'association pour la période 2017-2018**  
 Association rouennaise pour le maintien de l'agriculture paysanne.  
 
 L'AMAP Rouen est une association formée par des consommateurs et des producteurs paysans désirant construire un partenariat équitable **sans intermédiaires**.
