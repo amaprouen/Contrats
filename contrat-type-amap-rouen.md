@@ -1,6 +1,7 @@
-**![AMAP Rouen](assets/images/logo-amap-rouen-small.png)**  
+**AMAP Rouen**  
 http://amaprouen.org  
-contact@amaprouen.org
+contact@amaprouen.org  
+Liste de diffusion: amaprouen@framalistes.org
 
 # Contrat d'engagement {produit}
 **Saison {mois année début} - {mois année fin}**
