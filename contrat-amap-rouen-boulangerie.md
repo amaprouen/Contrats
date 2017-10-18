@@ -4,7 +4,7 @@ contact@amaprouen.org
 Liste de diffusion: amaprouen@framalistes.org
 
 # Contrat d'engagement pour les produits de boulangerie
-**Saison mai 2017 - octobre 2017**
+**Saison novembre 2017 - avril 2018**
 
 Le présent contrat règle les modalités de vente entre l'*amapien(ne)* et le *l'agriculteur paysan*.  
 Pour plus d'informations sur les engagements entre amapien(ne) et producteur paysans, référez-vous au [bulletin d'adhésion de l'association AMAP Rouen](bulletin-adhesion-amap-rouen) ainsi qu'à [la charte officiel des AMAP](http://miramap.org/IMG/pdf/charte_des_amap_mars_2014-2.pdf).
@@ -28,7 +28,7 @@ raphael.lemonnier@laposte.net
 | Pain au blé semi-complet sur levain aux graines de lins 500g | 3,20€  |           |
 | Pain à l'épeautre de 250g                                    | 2,30€  |           |
 | *Total par semaine*                                          |        |           |
-| **Total pour 24 ou 12 livraisons**                                 |        |           |
+| **Total pour 26 ou 13 livraisons**                           |        |           |
 
 Chèque à l'ordre de “Raphaël Lemonnier”.
 
@@ -37,8 +37,9 @@ Livraisons tous les **mercredis de 18h30 à 19h30** au 192, rue Eau de Robec à 
 
 Si vous commandez en quinzaine, veuillez préciser vos semaines :   
 
- - [ ] Semaine A (03/05, 17/05, 31/05, 14/06, 28/06, 12/07, 26/07, 23/08, 06/09, 20/09, 04/10, 18/10)
- - [ ] Semaine B  (10/05, 24/04, 07/06, 21/06, 05/07, 19/07, 16/08, 30/08, 13/09, 27/09, 11/10, 25/10)  
+ - [ ] Semaine A (08/11, 22/11, 6/12, 20/12, 03/01, 17/01, 31/01, 14/02, 28/02, 14/03, 28/03, 11/04, 25/04) 13 livraisons
+ - [ ] Semaine B (01/11, 15/11, 29/11, 13/12, 27/12, 10/01, 24/01, 07/02, 21/02, 07/03, 21/03, 04/04, 18/04) 13 livraisons
+
 
 ## Date et signature
 Adhérent à l'association AMAP Rouen.  
