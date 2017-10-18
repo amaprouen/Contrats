@@ -1,7 +1,7 @@
-![Logo de l'AMAP Rouen](https://raw.githubusercontent.com/amaprouen/contrats/master/assets/images/logo-amap-rouen-small.png)
-### AMAP rouen
-http://amaprouen.org
-contact@amaprouen.org
+**AMAP Rouen**  
+http://amaprouen.org  
+contact@amaprouen.org  
+Liste de diffusion: amaprouen@framalistes.org
 
 # Contrat d'engagement {produit}
 Saison {mois année début} - {mois année fin}

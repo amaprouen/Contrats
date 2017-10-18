@@ -1,4 +1,4 @@
-**![AMAP Rouen](assets/images/logo-amap-rouen-small.png)**  
+**AMAP Rouen**  
 http://amaprouen.org  
 contact@amaprouen.org  
 Liste de diffusion: amaprouen@framalistes.org

@@ -1,4 +1,7 @@
-**AMAP Rouen**
+**AMAP Rouen**  
+http://amaprouen.org  
+contact@amaprouen.org  
+Liste de diffusion: amaprouen@framalistes.org
 
 # Contrat d'engagement pour les produits de boulangerie
 **Saison mai 2017 - octobre 2017**
