@@ -4,7 +4,7 @@ contact@amaprouen.org
 Liste de diffusion: amaprouen@framalistes.org
 
 # Contrat d'engagement pour le fromage de chèvre
-**Saison novembre 2017 - avril 2018**
+**Saison mai 2018 - octobre 2018**
 
 Le présent contrat règle les modalités de vente entre l'*amapien(ne)* et *l'agriculteur paysan*.                                
 Pour plus d'informations sur les engagements entre amapien(ne) et producteur paysans, référez-vous au [bulletin d'adhésion de l'association AMAP Rouen](bulletin-adhesion-amap-rouen) ainsi qu'à [la charte officiel des AMAP](http://miramap.org/IMG/pdf/charte_des_amap_mars_2014-2.pdf).
@@ -22,13 +22,11 @@ patricksadones@hotmail.fr
 
 |Produits                          |Tarif unité|Frais|Demi-frais|Affiné|Sec|**Total par produit** |
 |----------------------------------|-----------|-----|----------|------|---|----------------------|
-|Crottin, 100g                     |1,80€      |     |          |      |   |                      |
-|Palet, 100g                       |1,80€      |     |          |      |   |                      |
-|Cendrée façon Selles/Cher, 170g   |2,55€      |     |          |      |   |                      |
-|Bûchette blanche ou cendrée, 180g |3,00€      |     |          |      |   |                      |
-|Tomme, 250g                       |3,70€      |     |          |      |   |                      |
-|**Total pour 13 livraisons**      |           |     |          |      |   |                      |
-
+|Crottin, 100g                     |1,90€      |     |          |      |   |                      |
+|Cendrée façon Selles/Cher, 180g   |2,70€      |     |          |      |   |                      |
+|Bûchette blanche ou cendrée, 200g |3,10€      |     |          |      |   |                      |
+|Tomme, 230g                       |3,70€      |     |          |      |   |                      |
+|**Total pour 13 livraisons**      |           |     |          |      |   |                      ||
 
 **Chaque commande sera identique toutes les quinzaines**. Seul l'affinage d'un seul fromage pourra exceptionnellement être modifié sur demande directe de l'amapien à Patrick Sadones.
 Cette commande ne sera prise en compte que lors de votre dépôt de chèques auprès du producteur ou du référent.
@@ -36,7 +34,7 @@ Chèques à l'ordre de "**Chèvrerie du Rouge-Prè**"
 
 ## Livraison
 Les produits seront livrés **tous les quinze jours**, les mercredis de 18h30 à 19h30 au : 192, rue Eau de Robec à Rouen (à la Cantine).                                                                                                                       
- - Uniquement en Semaine B (01/11, 15/11, 29/11, 13/12, 27/12, 10/01, 24/01, 07/02, 21/02, 07/03, 21/03, 04/04, 18/04) 13 livraisons
+ - Uniquement livré en semaine B (09/05, 23/05, 06/06, 20/06, 04/07, 18/07, 01/08, 16/08, 29/08, 12/09, 26/09, 10/10, 24/10) 13 livraisons
 
 ## Date et signature
 Adhérent à l'association AMAP Rouen.  
