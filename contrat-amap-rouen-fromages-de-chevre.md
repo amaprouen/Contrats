@@ -33,8 +33,9 @@ Cette commande ne sera prise en compte que lors de votre dépôt de chèques aup
 Chèques à l'ordre de "**Chèvrerie du Rouge-Prè**"
 
 ## Livraison
-Les produits seront livrés **tous les quinze jours**, les mercredis de 18h30 à 19h30 au : 192, rue Eau de Robec à Rouen (à la Cantine).                                                                                                                       
- - Uniquement livré en semaine B (09/05, 23/05, 06/06, 20/06, 04/07, 18/07, 01/08, 16/08, 29/08, 12/09, 26/09, 10/10, 24/10) 13 livraisons
+Les produits seront livrés **tous les quinze jours**, les mercredis de 18h30 à 19h30 au : 192, rue Eau de Robec à Rouen (à la Cantine).
+
+ - Uniquement livré en semaine A (16/05, 30/05, 13/06, 27/06, 11/07, 25/07, 08/08, 22/08, 05/09, 19/09, 03/10, 17/10, 31/10) 13 livraisons
 
 ## Date et signature
 Adhérent à l'association AMAP Rouen.  
