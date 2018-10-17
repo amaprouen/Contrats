@@ -4,7 +4,7 @@ contact@amaprouen.org
 Liste de diffusion: amaprouen@framalistes.org
 
 # Contrat d'engagement pour les produits de boulangerie
-**Saison mai 2018 - octobre 2018**
+**Saison novembre 2018 - avril 2019**
 
 Le présent contrat règle les modalités de vente entre l'*amapien(ne)* et le *l'agriculteur paysan*.  
 Pour plus d'informations sur les engagements entre amapien(ne) et producteur paysans, référez-vous au [bulletin d'adhésion de l'association AMAP Rouen](bulletin-adhesion-amap-rouen) ainsi qu'à [la charte officiel des AMAP](http://miramap.org/IMG/pdf/charte_des_amap_mars_2014-2.pdf).
@@ -38,8 +38,8 @@ Livraisons tous les **mercredis de 18h30 à 19h30** au 192, rue Eau de Robec à 
 
 Si vous commandez en quinzaine, veuillez préciser vos semaines :   
 
- - [ ] Semaine A (14/11, 28/11, 12/12, 26/12, 09/01, 23/01, 06/02, 20/02, 06/03, 20/03, 03/04, 17/04, 24/04) 13 livraisons
- - [ ] Semaine B (07/11, 21/11, 5/12, 19/12, 02/01, 16/01, 30/01, 13/02, 27/02, 13/03, 27/03, 10/04, 17/04) 13 livraisons
+ - [ ] Semaine A (14/11, 28/11, 12/12, ~~26/12~~, 09/01, 23/01, 06/02, 20/02, 06/03, 20/03, 03/04, ~~17/04~~) 10 livraisons
+ - [ ] Semaine B (07/11, 21/11, 5/12, 19/12, 02/01, 16/01, 30/01, 13/02, 27/02, 13/03, 27/03, 10/04, 24/04) 13 livraisons
 
 ## Date et signature
 Adhérent à l'association AMAP Rouen.  
