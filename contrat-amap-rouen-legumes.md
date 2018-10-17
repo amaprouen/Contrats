@@ -31,8 +31,8 @@ Le tarif est basé sur une quantité moyenne de légume prévue pour la consomma
 
 Veuillez choisir vos quinzaines de livraison : 
 
- - [ ] Semaine A (14/11, 28/11, 12/12, 26/12, 09/01, 23/01, 06/02, 20/02, 06/03, 20/03, 03/04, 17/04, 24/04)
- - [ ] Semaine B (07/11, 21/11, 5/12, 19/12, 02/01, 16/01, 30/01, 13/02, 27/02, 13/03, 27/03, 10/04, 17/04)
+ - [ ] Semaine A (14/11, 28/11, 12/12, 26/12, 09/01, 23/01, 06/02, 20/02, 06/03, 20/03, 03/04, 17/04, 24/04) 13 livraisons
+ - [ ] Semaine B (07/11, 21/11, 5/12, 19/12, 02/01, 16/01, 30/01, 13/02, 27/02, 13/03, 27/03, 10/04, 17/04) 13 livraisons
 
 ## Date et signature
 Adhérent à l'association AMAP Rouen.  
