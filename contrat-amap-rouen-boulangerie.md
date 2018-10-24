@@ -34,9 +34,7 @@ raphael.lemonnier@laposte.net
 Chèque à l'ordre de “Raphaël Lemonnier”.
 
 ## Calendrier
-Livraisons tous les **mercredis de 18h30 à 19h30** au 192, rue Eau de Robec à Rouen (à la Cantine).
-
-Si vous commandez en quinzaine, veuillez préciser vos semaines :   
+Livraisons tous les **mercredis de 18h30 à 19h30** au 192, rue Eau de Robec à Rouen (à la Cantine). Si vous commandez en quinzaine, veuillez préciser vos semaines :   
 
  - [ ] Semaine A (14/11, 28/11, 12/12, ~~26/12~~, 09/01, 23/01, 06/02, 20/02, 06/03, 20/03, 03/04, ~~17/04~~) 10 livraisons
  - [ ] Semaine B (07/11, 21/11, 5/12, 19/12, 02/01, 16/01, 30/01, 13/02, 27/02, 13/03, 27/03, 10/04, 24/04) 13 livraisons
