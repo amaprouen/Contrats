@@ -28,8 +28,12 @@ raphael.lemonnier@laposte.net
 | Pain au blé semi-complet sur levain aux graines de lin de 500g           | 3,20€  |           |
 | Pain à l'épeautre de 500g                                                | 3,20€  |           |
 | Pain au petit épeautre de 500g                                           | 4,50€  |           |
+| Brioche* 300g                                           | 3,80€  |           |
+| Brioche* 400g                                           | 4,80€  |           |
 | *Total par semaine*                                                      |        |           |
 | **Total pour 25, 13 ou 12 livraisons** (choix des quinzaines ci-dessous) |        |           |
+
+*Composition des brioches : farine de blé Bio semi-complète sur levain, œufs Bio de normandies, beurre Bio, sucre.
 
 Chèque à l'ordre de “Raphaël Lemonnier”.
 
