@@ -31,7 +31,7 @@ Le tarif est basé sur une quantité moyenne de légume prévue pour la consomma
 
 Veuillez choisir vos quinzaines de livraison : 
 
- - [ ] Semaine A : 01/05, 15/05, 29/05, 12/06, 26/06, 10/07, 24/07, 07/08, 21/08, 04/09, 18/09, 02/10, 16/10, 30/10 (14 livraisons)
+ - [ ] Semaine A : 02/05, 15/05, 29/05, 12/06, 26/06, 10/07, 24/07, 07/08, 21/08, 04/09, 18/09, 02/10, 16/10, 30/10 (14 livraisons)
  - [ ] Semaine B : 08/05, 22/05, 05/06, 19/06, 03/07, 17/07, 31/07, 14/08, 28/08, 11/09, 25/09, 09/10, 23/10 (13 livraisons)
 
 ## Date et signature
