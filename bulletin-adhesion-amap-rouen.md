@@ -4,7 +4,7 @@ contact@amaprouen.org
 Liste de diffusion: amaprouen@framalistes.org
 
 # Adhésion AMAP Rouen
-**Bulletin d'adhésion à l'association pour la période 2018-2019**  
+**Bulletin d'adhésion à l'association pour une durée de 1 an**  
 Association rouennaise pour le maintien de l'agriculture paysanne.  
 
 L'AMAP Rouen est une association formée par des consommateurs et des producteurs paysans désirant construire un partenariat équitable **sans intermédiaires**.
@@ -53,7 +53,7 @@ Tant qu'il le peut, l'agriculteur paysan devra être présent lors des distribut
 Les produits seront livrés tous les **mercredis de 18h30 à 19h30 sur la terrasse de «la Cantine» au 195, rue Eau de Robec à Rouen**. Les produits ne seront pas remboursés, il pourra s'arranger pour trouver une autre personne pour prendre son panier (une personne de son entourage, un autre adhérent, etc.).
 
 ## Adhésion
-L'adhésion à l'association vous permet de participer et bénéficier des actions de notre association. Pour rester informé sur l'activité de l'association, inscrivez à la liste de diffusion en envoyant un email à l'adresse amaprouen@framalistes.org (votre adresse d'expédition doit être similaire à celle précisée dans ce bulletin d'adhésion).
+L'adhésion à l'association vous permet de participer et bénéficier des actions de notre association. 
 
 ### Informations personnelles
 Vos données personnelles sont nécessaires pour votre adhésion. Elles feront l'objet d'un traitement informatique et seront uniquement destinées à la gestion administrative de l'association.
@@ -63,7 +63,9 @@ Vos données personnelles sont nécessaires pour votre adhésion. Elles feront l
     Adresse postale : ............................................  
     ..............................................................  
     Téléphone : ..................................................  
-    Adresse électronique : .......................................  
+    Adresse électronique* : .......................................  
+
+* Pour rester informé sur l'activité de votre association, précisez votre adresse électronique. Celle-ci sera ajoutée à la liste de diffusion amaprouen@framalistes.org.
 
 ### Montant de l'adhésion
     Montant de l'adhésion (1€ mini.) : ........... €
