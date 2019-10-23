@@ -3,8 +3,8 @@ http://amaprouen.org
 contact@amaprouen.org  
 Liste de diffusion: amaprouen@framalistes.org
 
-# Contrat d'engagement pour le fromage de chèvre
-**Saison mai 2019 - octobre 2019**
+# Contrat d'engagement Chèvrerie
+**Saison novembre 2019 - avril 2020**
 
 Le présent contrat règle les modalités de vente entre l'*amapien(ne)* et *l'agriculteur paysan*.                                
 Pour plus d'informations sur les engagements entre amapien(ne) et producteur paysans, référez-vous au [bulletin d'adhésion de l'association AMAP Rouen](bulletin-adhesion-amap-rouen) ainsi qu'à [la charte officiel des AMAP](http://miramap.org/IMG/pdf/charte_des_amap_mars_2014-2.pdf).
@@ -35,8 +35,7 @@ Chèques à l'ordre de "**Chèvrerie du Rouge-Prè**"
 ## Livraison
 Les produits seront livrés **tous les quinze jours**, les mercredis de 18h30 à 19h30 au : 192, rue Eau de Robec à Rouen (à la Cantine).
 
- - Uniquement livré en semaine A : 02/05, 15/05, 29/05, 12/06, 26/06, 10/07, 24/07, 07/08, 21/08, 04/09, 18/09, 02/10, 16/10, 30/10 (14 livraisons)
-
+Uniquement livré en semaine B : 13/11, 27/11, 11/12, 25/12, 8/01, 22/01, 5/02, 19/02, 4/03, 18/03, 1/04, 15/04, 29/04 (13 livraisons)
 
 ## Date et signature
 Adhérent à l'association AMAP Rouen.  

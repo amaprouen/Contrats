@@ -4,8 +4,8 @@ contact@amaprouen.org
 Liste de diffusion: amaprouen@framalistes.org
 
 
-# Contrat d'engagement pour le miel
-**Saison mai 2019 - octobre 2019**
+# Contrat d'engagement Apiculture
+**Saison novembre 2019 - avril 2020**
 
 Le présent contrat règle les modalités de vente entre l'*amapien(ne)* et le *l'agriculteur paysan*.
 Pour plus d'informations sur les engagements entre amapien(ne) et producteur paysans, référez-vous au [bulletin d'adhésion de l'association AMAP Rouen](bulletin-adhesion-amap-rouen) ainsi qu'à [la charte officiel des AMAP](http://miramap.org/IMG/pdf/charte_des_amap_mars_2014-2.pdf).
@@ -24,13 +24,17 @@ gerard.pigne@laposte.net
 
 ## Commandes de miel
 Miel naturel, provenant des rûchers de Beaulieu/Bois l'Évêque (miel sauvage), Route des Rôches (liquide crémeux, chataigne) ou de Repainville (ambré) en fonction de la production.
-Les produits seront livrés **une fois par mois** tous les premiers mercredis de 18h30 à 19h30 au 192 rue Eau de Robec à Rouen (à la Cantine).
+Les produits seront livrés **tous les 3 mois** les premiers mercredis de 18h30 à 19h30 au 192 rue Eau de Robec à Rouen (à la Cantine).
 
-Produits           | tarifs  | qté/mois | total par livraison |
--------------------|---------|----------|---------------------|
-Pot de miel 500gr. | 6€00    |          |                     |
+| Produits           | tarifs  | qté/trimestre |
+|--------------------|---------|---------------|
+| Pot de miel 500gr. | 6€00    |               |
 
-**Total pour 6 livraisons** :
+**Total pour la saison (6 mois)** :
+
+## Calendrier de livraison
+
+Livraison prévues en novembre 2019 et février 2020
 
 ## Date et signature
 Adhérent à l'association AMAP Rouen.  
