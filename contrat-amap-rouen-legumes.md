@@ -4,7 +4,7 @@ contact@amaprouen.org
 Liste de diffusion: amaprouen@framalistes.org
 
 # Contrat d'engagement Maraîchage Bio
-**Saison mai 2019 - octobre 2019**
+**Saison novembre 2019 - avril 2020**
 
 Le présent contrat règle les modalités de vente entre l'*amapien(ne)* et le *l'agriculteur paysan*. Les produits seront livrés les mercredis de 18h30 à 19h30 à «la Cantine» au 192 rue Eau de Robec à Rouen.
 
