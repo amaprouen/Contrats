@@ -1,6 +1,6 @@
-**AMAP Rouen**
-http://amaprouen.org
-contact@amaprouen.org
+**AMAP Rouen**  
+http://amaprouen.org  
+contact@amaprouen.org  
 Liste de diffusion: amaprouen@framalistes.org
 
 # Contrat d'engagement Chèvrerie
@@ -12,11 +12,11 @@ Pour plus d'informations sur les engagements entre amapien(ne) et producteur pay
 ## Producteur de fromage de chèvre
 Ces fromages sont exclusivement moulés à la louche manuellement à partir de lait caillé frais avec une garantie de livraison en fin d'année à hauteur de 50% des livraisons de printemps. Chaque type de fromage est disponible en **frais**, **demi-frais**, **affiné** ou **sec**.
 
-Patrick Sadones
-2079, Route du Conihout
-76480 Le Mesnil-sous-Jumièges
-02 35 37 35 08
-patricksadones@hotmail.fr
+Patrick Sadones  
+2079, Route du Conihout  
+76480 Le Mesnil-sous-Jumièges  
+02 35 37 35 08  
+patricksadones@hotmail.fr  
 
 ## Commande
 
@@ -38,7 +38,7 @@ Les produits seront livrés **tous les quinze jours**, les jeudis de 18h30 à 19
 Uniquement livré en semaine B : 14/05, 28/05, 11/06, 25/06, 9/07, 23/07, 6/08, 20/08, 3/09, 17/09, 1/10, 15/10, 29/10. (13 livraisons)
 
 ## Date et signature
-Adhérent à l'association AMAP Rouen.
-Nom & prénom :
-Contact (email ou tél.) :
+Adhérent à l'association AMAP Rouen.  
+Nom & prénom :  
+Contact (email ou tél.) :  
 Date et signature :

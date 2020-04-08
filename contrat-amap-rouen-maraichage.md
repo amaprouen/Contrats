@@ -1,6 +1,6 @@
-**AMAP Rouen**
-http://amaprouen.org
-contact@amaprouen.org
+**AMAP Rouen**  
+http://amaprouen.org  
+contact@amaprouen.org  
 Liste de diffusion: amaprouen@framalistes.org
 
 # Contrat d'engagement pour les paniers de légumes Bio
@@ -14,10 +14,10 @@ Pour plus d'informations sur les engagements entre amapien(ne) et producteur pay
 
 Maraîcher au Pays de Bray, Alain cultive 4 hectares de cultures de légumes biologique, il propose tout au long de l'année des produits variés, sains et de qualité. Ses produits sont certifiés Bio.
 
-**Alain Goubert**
-562 route des Bois Illards
-76270 SAINT-SAIRE
-06 88 85 11 17
+**Alain Goubert**  
+562 route des Bois Illards  
+76270 SAINT-SAIRE  
+06 88 85 11 17  
 goubert_alain@orange.fr
 
 ## Panier de légume Bio
@@ -34,7 +34,7 @@ Livraisons tous les **jeudis de 18h30 à 19h30** au 192, rue Eau de Robec à Rou
  - [ ] Semaine B : 14/05, 28/05, 11/06, 25/06, 9/07, 23/07, 6/08, 20/08, 3/09, 17/09, 1/10, 15/10, 29/10. (13 livraisons)
 
 ## Date et signature
-Adhérent à l'association AMAP Rouen.
-Nom & prénom :
-Contact (email ou tél.) :
+Adhérent à l'association AMAP Rouen.  
+Nom & prénom :  
+Contact (email ou tél.) :  
 Date et signature :

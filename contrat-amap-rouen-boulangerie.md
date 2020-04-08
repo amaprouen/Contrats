@@ -1,6 +1,6 @@
-**AMAP Rouen**
-http://amaprouen.org
-contact@amaprouen.org
+**AMAP Rouen**  
+http://amaprouen.org  
+contact@amaprouen.org  
 Liste de diffusion: amaprouen@framalistes.org
 
 # Contrat d'engagement Boulangerie Bio
@@ -13,10 +13,10 @@ Raphaël Lemonnier produit son pain sur levain à partir d'une farine locale cer
 
 Il a débuté son aventure avec nous et distribue aujourd'hui à plusieurs AMAP, il est maintenant **labélisé Bio**. N'hésitez pas à lui faire part de vos remarques et suggestions afin qu'il puisse améliorer ses produits.
 
-Raphaël Lemonnier
-15, rue Vigné
-76130 Mont-Saint-Aignan
-06 19 14 06 73
+Raphaël Lemonnier  
+15, rue Vigné  
+76130 Mont-Saint-Aignan  
+06 19 14 06 73  
 raphael.lemonnier@laposte.net
 
 ## Produits de boulangerie Bio
@@ -39,11 +39,11 @@ Chèque à l'ordre de “Raphaël Lemonnier”.
 ## Calendrier
 Livraisons tous les **jeudis de 18h30 à 19h30** au 192, rue Eau de Robec à Rouen (à la Cantine). Veuillez choisir vos semaines de livraison :
 
- - [ ] Semaine A : 7/05, 21/05, 4/06, 18/06, 2/07, 16/07, ~30/07~, 13/08, 27/08, 10/09, 24/09, ~8/10~, 22/10. (11 livraisons)
- - [ ] Semaine B : 14/05, 28/05, 11/06, 25/06, 9/07, 23/07, ~6/08~, 20/08, 3/09, 17/09, 1/10, 15/10, 29/10. (12 livraisons)
+ - [ ] Semaine A : 7/05, 21/05, 4/06, 18/06, 2/07, 16/07, ~~30/07~~, 13/08, 27/08, 10/09, 24/09, ~~8/10~~, 22/10. (11 livraisons)
+ - [ ] Semaine B : 14/05, 28/05, 11/06, 25/06, 9/07, 23/07, ~~6/08~~, 20/08, 3/09, 17/09, 1/10, 15/10, 29/10. (12 livraisons)
 
 ## Date et signature
-Adhérent à l'association AMAP Rouen.
-Nom & prénom :
-Contact (email ou tél.) :
+Adhérent à l'association AMAP Rouen.  
+Nom & prénom :  
+Contact (email ou tél.) :  
 Date et signature :

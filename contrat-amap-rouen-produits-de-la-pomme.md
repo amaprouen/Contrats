@@ -33,5 +33,7 @@ Contact (email ou tél.) :
 {date}
 
 ## Date et signature
-Fait à ............., le .............  
-Nom et signature de l'amapien(ne) :
+Adhérent à l'association AMAP Rouen.  
+Nom & prénom :  
+Contact (email ou tél.) :  
+Date et signature :
