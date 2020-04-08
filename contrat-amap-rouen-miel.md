@@ -24,11 +24,10 @@ gerard.pigne@laposte.net
 ## Commandes de miel
 Miel naturel, provenant des rûchers de Beaulieu/Bois l'Évêque (miel sauvage), Route des Rôches (liquide crémeux, chataigne) ou de Repainville (ambré) en fonction de la production.
 
-| Produits           | tarifs  | qté/trimestre |
-|--------------------|---------|---------------|
-| Pot de miel 500gr. | 7,00€   |               |
-
-**Total pour la saison (6 mois)** :
+| Produits           | tarifs          | qté/trimestre |
+|--------------------|-----------------|---------------|
+| Pot de miel 500gr. | 7,00€           |               |
+| **Total pour toutes les livraisons** | &nbsps;       |
 
 ## Calendrier de livraison
 Les produits seront livrés en une fois lors de la saison au 192 rue Eau de Robec à Rouen (à la Cantine). Nous vous communiquerons la date de livraison au cours de la saison.

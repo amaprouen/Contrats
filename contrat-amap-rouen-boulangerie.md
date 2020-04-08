@@ -30,7 +30,7 @@ raphael.lemonnier@laposte.net
 | Brioche* 300g                                                            | 3,80€  |           |
 | Brioche* 400g                                                            | 4,80€  |           |
 | *Total par semaine*                                                      |        |           |
-| **Total pour toutes les livraisons** (choix des semaines ci-dessous)     |        |           |
+| **Total pour toutes les livraisons** (choix des semaines ci-dessous)     |        |&nbsp;     |
 
 *Composition des brioches : farine de blé Bio semi-complète sur levain, œufs Bio de normandies, beurre Bio, sucre.
 

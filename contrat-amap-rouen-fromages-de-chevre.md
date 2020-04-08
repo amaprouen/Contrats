@@ -26,7 +26,8 @@ patricksadones@hotmail.fr
 |Cendrée façon Selles/Cher, 180g      |3,00€      |     |          |      |   |                      |
 |Bûchette blanche ou cendrée, 200g    |3,40€      |     |          |      |   |                      |
 |Tomme, 240g                          |4,00€      |     |          |      |   |                      |
-|**Total pour toutes les livraisons** |           |     |          |      |   |                      |
+|*Total par quizaine*                 |           |     |          |      |   |                      |
+|**Total pour toutes les livraisons** |           |     |          |      |   |&nbsp;                |
 
 **Chaque commande sera identique toutes les quinzaines**. Seul l'affinage d'un seul fromage pourra exceptionnellement être modifié sur demande directe de l'amapien à Patrick Sadones.
 Cette commande ne sera prise en compte que lors de votre dépôt de chèques auprès du producteur ou du référent.
