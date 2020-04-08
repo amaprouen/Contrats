@@ -10,9 +10,9 @@ Le présent contrat règle les modalités de vente entre l'*amapien(ne)* et le *
 Pour plus d'informations sur les engagements entre amapien(ne) et producteur paysans, référez-vous au [bulletin d'adhésion de l'association AMAP Rouen](bulletin-adhesion-amap-rouen) ainsi qu'à [la charte officiel des AMAP](http://miramap.org/IMG/pdf/charte_des_amap_mars_2014-2.pdf).
 
 ## Apiculteur
-Gérard Pigné travail avec des méthodes artisanales, il possède une cinquantaine de rûches répartit en 3 rûchets (± 500 kg de miel/an). Il privilégie le bien-être de ses abeilles à la productivité mielifère. Son miel n'est pas transformé, les goûts, aspects et textures conservent leurs caractéristiques naturelles, elles  varient en fonction des lieux et des saisons.
+Gérard Pigné travaille avec des méthodes artisanales, il possède une cinquantaine de ruches réparties en 3 ruchers (± 500 kg de miel/an). Il privilégie le bien-être de ses abeilles à la productivité mellifère. Son miel n'est pas transformé : les goûts, aspects et textures conservent leurs caractéristiques naturelles, ils  varient en fonction des lieux et des saisons.
 
-Son but est de sensibiliser le public à la survie des abeilles (notament l'abeille noire Normande) et de développer les rûchets en transmettant le savoir-faire apicole. Il est engagé dans l'association des Apiculteurs de Repainville, afin de gérer un rûchet partagé.
+Son but est de sensibiliser le public à la survie des abeilles (notament l'abeille noire Normande) et de développer les ruchers en transmettant le savoir-faire apicole. Il est engagé dans l'association des Apiculteurs de Repainville, afin de gérer un rûcher partagé.
 
 **Gérard Pigné**  
 708, rue Saint-Anne  
@@ -22,7 +22,7 @@ gerard.pigne@laposte.net
 
 
 ## Commandes de miel
-Miel naturel, provenant des rûchers de Beaulieu/Bois l'Évêque (miel sauvage), Route des Rôches (liquide crémeux, chataigne) ou de Repainville (ambré) en fonction de la production.
+Miel naturel, provenant des ruchers de Beaulieu/Bois l'Évêque (miel sauvage), Route des Roches (liquide crémeux, chataigne) ou de Repainville (ambré) en fonction de la production.
 
 | Produits           | tarifs          | qté/trimestre |
 |--------------------|-----------------|---------------|
