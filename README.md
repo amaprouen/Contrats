@@ -17,12 +17,12 @@ Tous les mercredis de 18h30 à 19h30
 Au 192 rue Eau de Robec à Rouen  
 Sur la terrasse de la Cantine
 
-Nos amapien(ne)s et notre maraîcher aurons plaisir à vous informer sur le fonctionnement des AMAP et de notre association.
+Nos amapien(ne)s et notre maraîcher auront plaisir à vous informer sur le fonctionnement des AMAP et de notre association.
 
 # À propos
-Ce dossier contient tous les documents, necessaire au bon fonctionnement de la relation consommateurs/paysans de notre AMAP.
+Ce dossier contient tous les documents nécessaires au bon fonctionnement de la relation consommateurs/paysans de notre AMAP.
 
-Vous êtes libre d'ajouter, supprimer et/ou de modifier ces documents.
+Vous êtes libre(s) d'ajouter, supprimer et/ou de modifier ces documents.
 
 ## Modifier des documents
 Ces documents sont librements modifiables, pour plus d'informations suivez [le guide de contribution de Github](https://guides.github.com/activities/contributing-to-open-source/).
