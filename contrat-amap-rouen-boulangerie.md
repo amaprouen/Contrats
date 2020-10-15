@@ -23,12 +23,12 @@ raphael.lemonnier@laposte.net
 
 | produits                                                                 | tarifs | quantité  |
 |--------------------------------------------------------------------------|--------|-----------|
-| Pain au blé semi-complet sur levain de 500g                              | 2,90€  |           |
-| Pain au blé semi-complet sur levain aux graines de lin de 500g           | 3,20€  |           |
-| Pain à l'épeautre de 500g                                                | 3,20€  |           |
-| Pain au petit épeautre de 500g                                           | 4,50€  |           |
-| Brioche* 300g                                                            | 3,80€  |           |
-| Brioche* 400g                                                            | 4,80€  |           |
+| Pain au blé semi-complet sur levain (500g)                               | 2,90€  |           |
+| Pain au blé semi-complet sur levain aux noix (500g)                      | 3,20€  |           |
+| Pain à l'épeautre (500g)                                                 | 3,20€  |           |
+| Pain au petit épeautre (500g)                                            | 4,50€  |           |
+| Brioche* (300g)                                                          | 3,80€  |           |
+| Brioche* (400g)                                                          | 4,80€  |           |
 | *Total par semaine*                                                      |        |           |
 | **Total pour toutes les livraisons** (choix des semaines ci-dessous)     |        |&nbsp;     |
 
@@ -39,8 +39,7 @@ Chèque à l'ordre de “Raphaël Lemonnier”.
 ## Calendrier
 Livraisons tous les **jeudis de 18h30 à 19h30** au 192, rue Eau de Robec à Rouen (à la Cantine). Veuillez choisir vos semaines de livraison :
 
- - [ ] Semaine A : 7/05, 21/05, 4/06, 18/06, 2/07, 16/07, ~~30/07~~, 13/08, 27/08, 10/09, 24/09, ~~8/10~~, 22/10. (11 livraisons)
- - [ ] Semaine B : 14/05, 28/05, 11/06, 25/06, 9/07, 23/07, ~~6/08~~, 20/08, 3/09, 17/09, 1/10, 15/10, 29/10. (12 livraisons)
+ - [ ] Semaine B : 12/11, 26/11, 10/12, 24/12, 7/01, 21/01, 4/02, 18/02, 4/03, 18/03, 8/04, 22/04. (12 livraisons)
 
 ## Date et signature
 Adhérent à l'association AMAP Rouen.  
