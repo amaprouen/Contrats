@@ -4,7 +4,7 @@ contact@amaprouen.org
 Liste de diffusion: amaprouen@framalistes.org
 
 # Contrat d'engagement pour les paniers de légumes Bio
-**Saison mai - octobre 2020**
+**Saison novembre 2020 - avril 2021**
 
 Le présent contrat règle les modalités de vente entre l'*amapien(ne)* et le *l'agriculteur paysan*. Les produits seront livrés les jeudis de 18h30 à 19h30 à «la Cantine» au 192 rue Eau de Robec à Rouen.
 
