@@ -7,7 +7,7 @@ Liste de diffusion: amaprouen@framalistes.org
 **Saison novembre 2020 - avril 2021**
 
 Le présent contrat règle les modalités de vente entre l'*amapien(ne)* et *l'agriculteur paysan*.
-Pour plus d'informations sur les engagements entre amapien(ne) et producteur paysans, référez-vous au [bulletin d'adhésion de l'association AMAP Rouen](bulletin-adhesion-amap-rouen) ainsi qu'à [la charte officiel des AMAP](http://miramap.org/IMG/pdf/charte_des_amap_mars_2014-2.pdf).
+Pour plus d'informations sur les engagements entre amapien(ne) et producteur paysans, référez-vous au *bulletin d'adhésion de l'association AMAP Rouen* ainsi qu'à [la charte officiel des AMAP](http://miramap.org/IMG/pdf/charte_des_amap_mars_2014-2.pdf).
 
 ## Producteur de fromage de chèvre
 Ces fromages sont exclusivement moulés à la louche manuellement à partir de lait caillé frais avec une garantie de livraison en fin d'année à hauteur de 50% des livraisons de printemps. Chaque type de fromage est disponible en **frais**, **demi-frais**, **affiné** ou **sec**.

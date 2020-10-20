@@ -6,7 +6,7 @@ Liste de diffusion: amaprouen@framalistes.org
 # Contrat d'engagement Boulangerie Bio
 **Saison novembre 2020 - avril 2021**
 
-Le présent contrat règle les modalités de vente entre l'*amapien(ne)* et le *l'agriculteur paysan*. Pour plus d'informations sur les engagements entre amapien(ne) et producteur paysans, référez-vous au [bulletin d'adhésion de l'association AMAP Rouen](bulletin-adhesion-amap-rouen) ainsi qu'à [la charte officiel des AMAP](http://miramap.org/IMG/pdf/charte_des_amap_mars_2014-2.pdf).
+Le présent contrat règle les modalités de vente entre l'*amapien(ne)* et le *l'agriculteur paysan*. Pour plus d'informations sur les engagements entre amapien(ne) et producteur paysans, référez-vous au *bulletin d'adhésion de l'association AMAP Rouen* ainsi qu'à [la charte officiel des AMAP](http://miramap.org/IMG/pdf/charte_des_amap_mars_2014-2.pdf).
 
 ## Boulanger responsable
 Raphaël Lemonnier produit son pain sur levain à partir d'une farine locale certifiée Bio (fournisseur Biocer). Notre AMAP accompagne son projet depuis le début, Raphaël s'engage à produire un pain de qualité nutritionnel et gustatif, évitant le gâchis. Il a le désir que son produit soit accessible au plus grand nombre.
