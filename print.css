@@ -1,0 +1,89 @@
+body {
+  font-size: 0.8em;
+}
+h1, h2 {
+  margin-top: 0.5rem;
+  margin-bottom: 0;
+  padding: 0;
+  border: none;
+}
+p, ul, ol, table {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+table > tbody > tr > td {
+  padding: 0.1rem;
+}
+
+pre {
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  margin: 0;
+  margin-bottom: 0.5rem;
+}
+
+body {
+  width: auto !important;
+  margin:auto !important;
+  /* font-size: 10pt; */
+  line-height: 1.2em;
+  background-color: #fff !important;
+  color: #000 !important;
+}
+
+/** Headings **/
+h1,
+h2,
+h3 {
+  page-break-after: avoid;
+  margin-bottom: .5rem;
+}
+
+/** Paragraphs **/
+p,
+blockquote {
+  orphans: 3;
+  widows: 3;
+  margin-top: 0;
+  margin-bottom: .5rem;
+}
+
+blockquote,
+ul,
+ol {
+  page-break-inside: avoid;
+}
+
+/** Links **/
+a {
+  color: #000 !important;
+  text-decoration: underline !important;
+}
+a[href]:after {
+  content: " (" attr(href) ")";
+  font-size: 0.8334em;
+}
+
+/** Table **/
+table {
+  border: 1px solid;
+  border-collapse: collapse;
+}
+table td,
+table th {
+  border: 1px solid black;
+  padding: 0.2rem 0.5rem;
+}
+
+
+@page {
+margin: 10%;
+
+@top-center {
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 2em;
+  content: counter(page);
+}
+}
