@@ -1,18 +1,32 @@
 body {
   font-size: 0.8em;
+  line-height: 1.2rem;
+  margin: 1cm 0.5cm !important;
+  background-color: #fff !important;
+  color: #000 !important;
 }
+
+/** Headings **/
 h1, h2 {
+  page-break-after: avoid;
   margin-top: 0.5rem;
   margin-bottom: 0;
-  padding: 0;
   border: none;
 }
-p, ul, ol, table {
+
+/** Paragraphs **/
+p,
+blockquote {
+  orphans: 3;
+  widows: 3;
+}
+p,
+blockquote,
+ul,
+ol {
+  page-break-inside: avoid;
   margin-top: 0;
   margin-bottom: 0.5rem;
-}
-table > tbody > tr > td {
-  padding: 0.1rem;
 }
 
 pre {
@@ -21,38 +35,6 @@ pre {
   background-color: transparent;
   margin: 0;
   margin-bottom: 0.5rem;
-}
-
-body {
-  width: auto !important;
-  margin:auto !important;
-  /* font-size: 10pt; */
-  line-height: 1.2em;
-  background-color: #fff !important;
-  color: #000 !important;
-}
-
-/** Headings **/
-h1,
-h2,
-h3 {
-  page-break-after: avoid;
-  margin-bottom: .5rem;
-}
-
-/** Paragraphs **/
-p,
-blockquote {
-  orphans: 3;
-  widows: 3;
-  margin-top: 0;
-  margin-bottom: .5rem;
-}
-
-blockquote,
-ul,
-ol {
-  page-break-inside: avoid;
 }
 
 /** Links **/
@@ -73,12 +55,11 @@ table {
 table td,
 table th {
   border: 1px solid black;
-  padding: 0.2rem 0.5rem;
+  padding: 0.1rem 0.2rem;
 }
 
-
 @page {
-margin: 10%;
+margin: 0;
 
 @top-center {
   font-family: sans-serif;
