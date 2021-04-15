@@ -4,7 +4,7 @@ contact@amaprouen.org
 Liste de diffusion: amaprouen@framalistes.org
 
 # Contrat d'engagement pour les paniers de légumes Bio
-**Saison novembre 2020 - avril 2021**
+**Saison mai 2021 - octobre 2021**
 
 Le présent contrat règle les modalités de vente entre l'*amapien(ne)* et le *l'agriculteur paysan*. Les produits seront livrés les jeudis de 18h30 à 19h30 à «la Cantine» au 192 rue Eau de Robec à Rouen.
 
@@ -23,15 +23,15 @@ goubert_alain@orange.fr
 ## Panier de légume Bio
 **Panier de légumes certifiés Bio à 14,00€ TTC l'unité**
 
-Le tarif est basé sur une quantité moyenne de légume prévue pour la consommation d'environs d'une semaine de légumes pour une petite famille ou pour un grand mangeur de légumes. Vous pouvez vous engager pour un panier par semaine ou un panier tout les quinze jours.
+Vous pouvez vous engager pour un panier par semaine ou un panier tout les quinze jours.
 
 Vous devez régler la saison d'avance (6 mois) par chèques (de 1 à 6 chèques), ils seront encaissés au début de chaque mois. Le réglement est à faire par **chèque(s)** au nom de **Goubert**.
 
 ## Calendrier de livraison
 Livraisons tous les **jeudis de 18h30 à 19h30** au 192, rue Eau de Robec à Rouen (à la Cantine). Veuillez choisir vos semaines de livraison :
 
- - [ ] Semaine A : 5/11, 19/11, 3/12, 17/12, 31/12, 14/01, 28/01, 11/02, 25/02, 11/03, 25/03, 15/04, 29/04. (13 livraisons)
- - [ ] Semaine B : 12/11, 26/11, 10/12, 24/12, 7/01, 21/01, 4/02, 18/02, 4/03, 18/03, 8/04, 22/04. (12 livraisons)
+ - [ ] Semaine A : 06/05, 20/05, 03/06, 17/06, 01/07, 15/07, 29/07, 12/08, 26/08, 09/09, 23/09, 07/10, 21/10. (13 livraisons)
+ - [ ] Semaine B : 13/05, 27/05, 10/06, 24/06, 08/07, 22/07, 05/08, 19/08, 02/09, 16/09, 30/09, 14/10, 21/10. (13 livraisons)
 
 ## Date et signature
 Adhérent à l'association AMAP Rouen.  
