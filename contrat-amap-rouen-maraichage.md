@@ -31,7 +31,7 @@ Vous devez régler la saison d'avance (6 mois) par chèques (de 1 à 6 chèques)
 Livraisons tous les **jeudis de 18h30 à 19h30** au 192, rue Eau de Robec à Rouen (à la Cantine). Veuillez choisir vos semaines de livraison :
 
  - [ ] Semaine A : 06/05, 20/05, 03/06, 17/06, 01/07, 15/07, 29/07, 12/08, 26/08, 09/09, 23/09, 07/10, 21/10. (13 livraisons)
- - [ ] Semaine B : 13/05, 27/05, 10/06, 24/06, 08/07, 22/07, 05/08, 19/08, 02/09, 16/09, 30/09, 14/10, 21/10. (13 livraisons)
+ - [ ] Semaine B : 13/05, 27/05, 10/06, 24/06, 08/07, 22/07, 05/08, 19/08, 02/09, 16/09, 30/09, 14/10, 28/10. (13 livraisons)
 
 ## Date et signature
 Adhérent à l'association AMAP Rouen.  
