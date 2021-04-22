@@ -72,4 +72,3 @@ Vos données personnelles sont nécessaires pour votre adhésion. Elles feront l
 
 ### Date et signature
 «En devenant adhérent, j'accepte les risques et les bénéfices liés au fonctionnement de l'AMAP et j'ai lu et j'approuve la charte nationale des AMAP»
-
