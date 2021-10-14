@@ -4,7 +4,7 @@ contact@amaprouen.org
 Liste de diffusion: amaprouen@framalistes.org
 
 # Contrat d'engagement Boulangerie Bio
-**Saison mai 2021 - octobre 2021**
+**Saison novembre 2021 - avril 2022**
 
 Le présent contrat règle les modalités de vente entre l'*amapien(ne)* et le *l'agriculteur paysan*. Pour plus d'informations sur les engagements entre amapien(ne) et producteur paysans, référez-vous au *bulletin d'adhésion de l'association AMAP Rouen* ainsi qu'à [la charte officiel des AMAP](http://miramap.org/IMG/pdf/charte_des_amap_mars_2014-2.pdf).
 
@@ -38,7 +38,7 @@ raphael.lemonnier@laposte.net
 ## Calendrier
 Livraisons tous les **jeudis de 18h30 à 19h30** au 192, rue Eau de Robec à Rouen (à la Cantine). Veuillez choisir vos semaines de livraison :
 
-Uniquement livré en semaine B : 13/05, 27/05, 10/06, 24/06, 08/07, 22/07, 05/08, 19/08, 02/09, 16/09, 30/09, 14/10, 28/10. (13 livraisons)
+Uniquement livré en semaine B : 10/11, 25/11, 9/12, 23/12, 6/01, 20/01, 3/02, 17/02, 3/03, 17/03, 31/03, 14/04, 28/04 (13 livraisons)
 
 ## Date et signature
 Adhérent à l'association AMAP Rouen.  
