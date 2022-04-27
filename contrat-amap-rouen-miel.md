@@ -4,7 +4,7 @@ contact@amaprouen.org
 Liste de diffusion: amaprouen@framalistes.org
 
 # Contrat d'engagement Apiculture
-**Saison mai 2021 - octobre 2021**
+**Saison mai 2022 - octobre 2022**
 
 Le présent contrat règle les modalités de vente entre l'*amapien(ne)* et le *l'agriculteur paysan*.
 Pour plus d'informations sur les engagements entre amapien(ne) et producteur paysans, référez-vous au *bulletin d'adhésion de l'association AMAP Rouen* ainsi qu'à [la charte officiel des AMAP](http://miramap.org/IMG/pdf/charte_des_amap_mars_2014-2.pdf).
