@@ -26,7 +26,7 @@ Miel naturel, provenant des ruchers de Beaulieu/Bois l'Évêque (miel sauvage), 
 
 | Produits            | tarifs          | qté    |
 |---------------------|-----------------|--------|
-| Pot de miel 500gr.  | 7,00€           |        |
+| Pot de miel 500gr.  | 8,00€           |        |
 | **Total**           |                 | &nbsp; |
 
 ## Calendrier de livraison
