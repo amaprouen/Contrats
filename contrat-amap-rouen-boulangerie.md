@@ -23,14 +23,16 @@ raphael.lemonnier@laposte.net
 
 | produits                                                                 | tarifs | quantité  |
 |--------------------------------------------------------------------------|--------|-----------|
-| Pain au blé semi-complet sur levain (500g)                               | 2,90€  |           |
-| Pain au blé semi-complet sur levain aux noix (500g)                      | 3,80€  |           |
-| Pain à l'épeautre (500g)                                                 | 3,20€  |           |
+| Pain au blé semi-complet (500g)                               | 2,90€  |           |
+| Pain au blé semi-complet aux noix (500g)                      | 3,80€  |           |
+| Pain de campagne blé/seigle (700g)                                                 | 5,00€  |           |
 | Pain au petit épeautre (500g)                                            | 4,50€  |           |
 | Brioche* (300g)                                                          | 3,80€  |           |
 | Pain de mie** (450g)                                                     | 4,00€  |           |
 | *Total par semaine*                                                      |        |           |
 | **Total pour toutes les livraisons** (choix des semaines ci-dessous)     |        |&nbsp;     |
+
+Tout les pains sont sur levain à base blé.
 
 *Composition des brioches : farine de blé Bio semi-complète sur levain, œufs Bio de normandies, beurre Bio, sucre.  **Pain de mie : farine de blé Bio, lait, beurre Bio, sel et sucre.
 **Chèque à l'ordre de “Raphaël Lemonnier”**.
