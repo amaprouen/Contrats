@@ -38,8 +38,8 @@ raphael.lemonnier@laposte.net
 ## Calendrier
 Livraisons tous les **jeudis de 18h30 à 19h30** au 192, rue Eau de Robec à Rouen (à la Cantine). Veuillez choisir vos semaines de livraison :
 
-- [ ] Semaine A : 5/05/, 19/05, 02/06, 16/06, 30/06, 14/07, 28/07, 11/08, 25/08, 08/09, 22/09, 06/10, 20/10 (13 semaines)
-- [ ] Semaine B : 12/05, 26/05, 09/06, 23/06, 07/07, 21/07, 04/08, 18/08, 01/09, 15/09, 29/09, 13/09, 27/09 (13 semaines)
+- [ ] Semaine A : 5/05/, 19/05, 02/06, 16/06, 30/06, ~~14/07~~, ~~28/07~~, 11/08, 25/08, 08/09, 22/09, 06/10, 20/10 (11 semaines)
+- [ ] Semaine B : 12/05, 26/05, 09/06, 23/06, ~~07/07~~, 21/07, 04/08, 18/08, 01/09, 15/09, 29/09, 13/09, 27/09 (12 semaines)
 
 ## Date et signature
 Adhérent à l'association AMAP Rouen.  
