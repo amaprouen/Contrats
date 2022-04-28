@@ -36,7 +36,7 @@ Chèques à l'ordre de "**Chèvrerie du Rouge-Prè**"
 ## Livraison
 Les produits seront livrés **tous les quinze jours**, les jeudis de 18h30 à 19h30 au : 192, rue Eau de Robec à Rouen (à la Cantine).
 
-Uniquement livré en semaine B : 12/05, 26/05, 09/06, 23/06, 07/07, 21/07, 04/08, 18/08, 01/09, 15/09, 29/09, 13/09, 27/09 (13 semaines)
+Uniquement livré en semaine B : 12/05, 26/05, 09/06, 23/06, 07/07, 21/07, 04/08, 18/08, 01/09, 15/09, 29/09, 13/10, 27/10 (13 semaines)
 
 
 ## Date et signature
