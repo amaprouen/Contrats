@@ -4,7 +4,7 @@ contact@amaprouen.org
 Liste de diffusion: amaprouen@framalistes.org
 
 # Contrat d'engagement pour les paniers de légumes Bio
-**Saison mai 2022 - octobre 2022**
+**Saison novembre 2022 - avril 2023**
 
 Le présent contrat règle les modalités de vente entre l'*amapien(ne)* et le *l'agriculteur paysan*. Les produits seront livrés les jeudis de 18h30 à 19h30 à «la Cantine» au 192 rue Eau de Robec à Rouen.
 
@@ -30,8 +30,8 @@ Vous devez régler la saison d'avance (6 mois) par chèques (de 1 à 6 chèques)
 ## Calendrier de livraison
 Livraisons tous les **jeudis de 18h30 à 19h30** au 192, rue Eau de Robec à Rouen (à la Cantine). Veuillez choisir vos semaines de livraison :
 
-- [ ] Semaine A : 5/05/, 19/05, 02/06, 16/06, 30/06, 14/07, 28/07, 11/08, 25/08, 08/09, 22/09, 06/10, 20/10 (13 semaines)
-- [ ] Semaine B : 12/05, 26/05, 09/06, 23/06, 07/07, 21/07, 04/08, 18/08, 01/09, 15/09, 29/09, 13/10, 27/10 (13 semaines)
+- [ ] Semaine A : 03/10, 17/10, 01/12, 15/12, 29/12, 12/01, 26/01, 09/02, 23/02, 09/03, 23/03, 30/03, 13/04, 27/04 (14 semaines)
+- [ ] Semaine B : 10/10, 24/10, 08/12, 22/12, 05/01, 19/01, 02/02, 16/02, 02/03, 16/03, 23/03, 06/04, 20/04 (13 semaines)
 
 
 ## Date et signature
