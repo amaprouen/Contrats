@@ -4,7 +4,7 @@ contact@amaprouen.org
 Liste de diffusion: amaprouen@framalistes.org
 
 # Contrat d'engagement Chèvrerie
-**Saison mai 2022 - octobre 2022**
+**Saison novembre 2022 - avril 2022**
 
 Le présent contrat règle les modalités de vente entre l'*amapien(ne)* et *l'agriculteur paysan*.
 Pour plus d'informations sur les engagements entre amapien(ne) et producteur paysans, référez-vous au *bulletin d'adhésion de l'association AMAP Rouen* ainsi qu'à [la charte officiel des AMAP](http://miramap.org/IMG/pdf/charte_des_amap_mars_2014-2.pdf).
@@ -36,7 +36,7 @@ Chèques à l'ordre de "**Chèvrerie du Rouge-Prè**"
 ## Livraison
 Les produits seront livrés **tous les quinze jours**, les jeudis de 18h30 à 19h30 au : 192, rue Eau de Robec à Rouen (à la Cantine).
 
-Uniquement livré en semaine B : 12/05, 26/05, 09/06, 23/06, 07/07, 21/07, 04/08, 18/08, 01/09, 15/09, 29/09, 13/10, 27/10 (13 semaines)
+Uniquement livré en semaine B : 10/11, 24/11, 08/12, 22/12, 05/01, 19/01, 02/02, 16/02, 02/03, 16/03, 30/03, 13/04, 27/04 (13 semaines)
 
 
 ## Date et signature

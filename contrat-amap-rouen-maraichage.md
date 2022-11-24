@@ -30,8 +30,8 @@ Vous devez régler la saison d'avance (6 mois) par chèques (de 1 à 6 chèques)
 ## Calendrier de livraison
 Livraisons tous les **jeudis de 18h30 à 19h30** au 192, rue Eau de Robec à Rouen (à la Cantine). Veuillez choisir vos semaines de livraison :
 
-- [ ] Semaine A : 03/10, 17/10, 01/12, 15/12, 29/12, 12/01, 26/01, 09/02, 23/02, 09/03, 23/03, 30/03, 13/04, 27/04 (14 semaines)
-- [ ] Semaine B : 10/10, 24/10, 08/12, 22/12, 05/01, 19/01, 02/02, 16/02, 02/03, 16/03, 23/03, 06/04, 20/04 (13 semaines)
+- [ ] Semaine A : 03/11, 17/11, 01/12, 15/12, 29/12, 12/01, 26/01, 09/02, 23/02, 09/03, 23/03, 06/04, 20/04 (13 semaines)
+- [ ] Semaine B : 10/11, 24/11, 08/12, 22/12, 05/01, 19/01, 02/02, 16/02, 02/03, 16/03, 30/03, 13/04, 27/04 (13 semaines)
 
 
 ## Date et signature

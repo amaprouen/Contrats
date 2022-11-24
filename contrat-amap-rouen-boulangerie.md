@@ -39,12 +39,12 @@ Tout les pains sont sur levain à base blé.
 ## Calendrier
 Livraisons tous les **jeudis de 18h30 à 19h30** au 192, rue Eau de Robec à Rouen (à la Cantine). Veuillez choisir vos semaines de livraison :
 
-- [ ] Semaine A : 03/10, 17/10, 01/12, 15/12, -29/12-, 12/01, 26/01, 09/02, 23/02, 09/03, 23/03, 30/03, 13/04, -27/04- (12 semaines)
-- [ ] Semaine B : 10/10, 24/10, 08/12, 22/12, 05/01, 19/01, 02/02, 16/02, 02/03, 16/03, 23/03, 06/04, 20/04 (13 semaines)
+- [ ] Semaine A : 03/11, 17/11, 01/12, 15/12, ~~29/12~~, 12/01, 26/01, 09/02, 23/02, 09/03, 23/03, 06/04, 20/04 (12 semaines)
+- [ ] Semaine B : 10/11, 24/11, 08/12, 22/12, 05/01, 19/01, 02/02, 16/02, 02/03, 16/03,  30/03, 13/04, ~~27/04~~ (12 semaines)
 
 
 ## Date et signature
 Adhérent à l'association AMAP Rouen.  
 Nom & prénom :  
 Contact (email ou tél.) :  
-Date et signature :
+Date et signature :	
