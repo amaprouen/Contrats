@@ -42,7 +42,7 @@ Tout les pains sont sur levain à base blé.
 
 Livraisons tous les **jeudis de 18h30 à 19h30** au 192, rue Eau de Robec à Rouen (à la Cantine). Veuillez choisir vos semaines de livraison :
 
-- [ ] Semaine B : 11/05, 25/05, 08/06, 22/06, 06/07, 20/07, 03/08, 17/08, 31/08, 14/09, 28/09, 12/10, 26/10 (13 semaines)
+- [ ] Semaine B : 11/05, 25/05, 08/06, 22/06, 06/07, 20/07, ~~03/08~~, 17/08, 31/08, 14/09, 28/09, 12/10, 26/10 (13 semaines)
 
 ## Date et signature
 
