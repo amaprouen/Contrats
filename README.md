@@ -6,7 +6,7 @@ Ceci est la liste des contrats d'engagements auprès de l'association et des pay
 En trois étapes :
 
  1. Adhérer à l'association : [Bulletin d'adhésion AMAP Rouen](bulletin-adhesion-amap-rouen.md)
- 2. Compléter et signer [le contrat d'engagement maraîcher](/contrat-legumes-amap-rouen.md) (choisissez des produits complémentaires si cela vous tente),
+ 2. Compléter et signer [le contrat d'engagement maraîcher](/contrat-amap-rouen-maraichage.md) (choisissez des produits complémentaires si cela vous tente),
  3. Venir nous rencontrer et laisser une copie de vos contrats aux producteurs concernés.
 
 ##  Nous rencontrer
